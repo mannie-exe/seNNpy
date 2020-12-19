@@ -90,24 +90,21 @@ def train_step(inp, target):
 
 for epoch in range(EPOCHS):
     start = time.time()
-
     model.reset_states()
 
     for(batch_n, (inp, target)) in enumerate(dataset):
         loss = train_step(inp, target)
-
         if batch_n % 100 == 0:
             template = 'Epoch {} Batch {} Loss {}'
             print(template.format(epoch + 1, batch_n, loss))
-    
+
     if (epoch + 1) % 5 == 0:
         model.save_weights(checkpoint_prefix.format(epoch=epoch))
 
     print('Epoch {} Loss {:.4f}'.format(epoch + 1, loss))
     print('Time taken for 1 epoch {} sec\n'.format(time.time() - start))
 
-model.save_weights(checkpoint_prefix.format(epoch=epoch))
-
+model.save_weights(checkpoint_prefix.format(epoch=EPOCHS))
 # -----------------------------------------------
 
 
