@@ -3,7 +3,7 @@ import tensorflow as tf
 import numpy as np
 import os
 import time
-
+import datetime
 
 
 # Load and vectorize dataset
@@ -46,7 +46,7 @@ def build_model(vocab_size, embedding_dim, rnn_units, batch_size):
         tf.keras.layers.Embedding(
             vocab_size, embedding_dim, batch_input_shape=[batch_size, None]),
         tf.keras.layers.LSTM(rnn_units, return_sequences=True,
-                            stateful=True, recurrent_initializer='glorot_uniform'),
+                            stateful=True, recurrent_initializer='glorot_uniform', dropout=0.5),
         tf.keras.layers.Dense(vocab_size)
     ])
     return model
@@ -67,7 +67,7 @@ model = build_model(vocab_size=vocab_size, embedding_dim=embedding_dim,
 
 # Train model
 # -----------------------------------------------
-EPOCHS = 10
+EPOCHS = 30
 
 checkpoint_dir = './training_checkpoints'
 checkpoint_prefix = os.path.join(checkpoint_dir, 'ckpt_{epoch}')
@@ -76,6 +76,12 @@ checkpoint_callback = tf.keras.callbacks.ModelCheckpoint(
     filepath=checkpoint_prefix, save_weights_only=True)
 
 optimizer = tf.keras.optimizers.Adam()
+
+train_loss = tf.keras.metrics.Mean('train_loss',dtype=tf.float32)
+
+current_time = datetime.datetime.now().strftime('%Y%m%d-%H%M%S')
+train_log_dir = 'logs/gradient_tape/' + current_time + '/train'
+train_summary_writer = tf.summary.create_file_writer(train_log_dir)
 
 @tf.function
 def train_step(inp, target):
@@ -86,6 +92,8 @@ def train_step(inp, target):
                 target, predictions, from_logits=True))
     grads = tape.gradient(loss, model.trainable_variables)
     optimizer.apply_gradients(zip(grads, model.trainable_variables))
+
+    train_loss(loss)
     return loss
 
 for epoch in range(EPOCHS):
@@ -98,13 +106,20 @@ for epoch in range(EPOCHS):
             template = 'Epoch {} Batch {} Loss {}'
             print(template.format(epoch + 1, batch_n, loss))
 
+        with train_summary_writer.as_default():
+            tf.summary.scalar('loss',train_loss.result(), step=epoch)
+
+    
     if (epoch + 1) % 5 == 0:
         model.save_weights(checkpoint_prefix.format(epoch=epoch))
 
     print('Epoch {} Loss {:.4f}'.format(epoch + 1, loss))
     print('Time taken for 1 epoch {} sec\n'.format(time.time() - start))
 
+    train_loss.reset_states()
+
 model.save_weights(checkpoint_prefix.format(epoch=EPOCHS))
+
 # -----------------------------------------------
 
 
