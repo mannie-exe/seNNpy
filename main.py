@@ -67,7 +67,7 @@ model = build_model(vocab_size=vocab_size, embedding_dim=embedding_dim,
 
 # Train model
 # -----------------------------------------------
-EPOCHS = 30
+EPOCHS = 10
 
 checkpoint_dir = './training_checkpoints'
 checkpoint_prefix = os.path.join(checkpoint_dir, 'ckpt_{epoch}')
@@ -96,15 +96,17 @@ def train_step(inp, target):
     train_loss(loss)
     return loss
 
+time.sleep(5)
+
 for epoch in range(EPOCHS):
     start = time.time()
     model.reset_states()
 
+    print('Epoch: {}'.format(epoch + 1))
     for(batch_n, (inp, target)) in enumerate(dataset):
         loss = train_step(inp, target)
-        if batch_n % 100 == 0:
-            template = 'Epoch {} Batch {} Loss {}'
-            print(template.format(epoch + 1, batch_n, loss))
+        
+        print("\r[{:50s}] {:.1f}% ".format('#' * int(batch_n/128 * 50), (batch_n/128) * 100) + 'loss: {:.4f}'.format(loss), end="", flush=True)
 
         with train_summary_writer.as_default():
             tf.summary.scalar('loss',train_loss.result(), step=epoch)
@@ -113,8 +115,7 @@ for epoch in range(EPOCHS):
     if (epoch + 1) % 5 == 0:
         model.save_weights(checkpoint_prefix.format(epoch=epoch))
 
-    print('Epoch {} Loss {:.4f}'.format(epoch + 1, loss))
-    print('Time taken for 1 epoch {} sec\n'.format(time.time() - start))
+    print('\nTime taken for 1 epoch {:.3f} sec with {:.4f} loss\n'.format(time.time() - start, loss))
 
     train_loss.reset_states()
 
