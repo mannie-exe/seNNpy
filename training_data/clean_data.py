@@ -1,3 +1,4 @@
+import sys
 import os
 from functools import reduce
 import re
@@ -19,12 +20,12 @@ def clean_messages(accum, message):
     return accum
 
 
-with open(raw_messages_path) as raw_messages:
+with open(raw_messages_path, encoding='utf-8') as raw_messages:
     raw_messages = json.loads(raw_messages.read())['messages']
     clean_messages = reduce(clean_messages, raw_messages, [])
 
     new_file_path = os.path.abspath('messages.txt')
-    with open(new_file_path, 'w') as new_messages_file:
+    with open(new_file_path, 'w', encoding='utf-8') as new_messages_file:
         new_messages_file.write('\n'.join(clean_messages))
 
     print('%d -> %d' % (len(raw_messages), len(clean_messages)))
