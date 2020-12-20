@@ -36,6 +36,7 @@ BATCH_SIZE = 64
 BUFFER_SIZE = 1000
 
 dataset = dataset.shuffle(BUFFER_SIZE).batch(BATCH_SIZE, drop_remainder=True)
+data_size = len(dataset)
 # -----------------------------------------------
 
 
@@ -67,7 +68,7 @@ model = build_model(vocab_size=vocab_size, embedding_dim=embedding_dim,
 
 # Train model
 # -----------------------------------------------
-EPOCHS = 10
+EPOCHS = 30
 
 checkpoint_dir = './training_checkpoints'
 checkpoint_prefix = os.path.join(checkpoint_dir, 'ckpt_{epoch}')
@@ -96,18 +97,16 @@ def train_step(inp, target):
     train_loss(loss)
     return loss
 
-time.sleep(5)
-
 for epoch in range(EPOCHS):
     start = time.time()
     model.reset_states()
 
-    print('Epoch: {}'.format(epoch + 1))
+    print('Epoch: {}/{}'.format(epoch + 1, EPOCHS))
     for(batch_n, (inp, target)) in enumerate(dataset):
         loss = train_step(inp, target)
         
-        print("\r[{:50s}] {:.1f}% ".format('#' * int(batch_n/128 * 50), (batch_n/128) * 100) + 'loss: {:.4f}'.format(loss), end="", flush=True)
-
+        print("\r[{:50s}] {:.1f}% ".format('#' * int((batch_n + 1)/data_size * 50), ((batch_n + 1)/data_size) * 100) + 'loss: {:.4f}'.format(loss), end="", flush=True)
+        
         with train_summary_writer.as_default():
             tf.summary.scalar('loss',train_loss.result(), step=epoch)
 
@@ -115,7 +114,9 @@ for epoch in range(EPOCHS):
     if (epoch + 1) % 5 == 0:
         model.save_weights(checkpoint_prefix.format(epoch=epoch))
 
-    print('\nTime taken for 1 epoch {:.3f} sec with {:.4f} loss\n'.format(time.time() - start, loss))
+    d_time = time.time() - start
+    print('\nTime taken for 1 epoch {:.3f} sec with {:.4f} loss\n'.format(d_time, loss))
+    print('Estimated time remaining: {:.3f} sec.'.format(d_time * (EPOCHS - (epoch + 1))))
 
     train_loss.reset_states()
 
@@ -128,7 +129,7 @@ model.save_weights(checkpoint_prefix.format(epoch=EPOCHS))
 # -----------------------------------------------
 def generate_text(model, start_string):
     num_generate = 1000
-    temperature = 0.9
+    temperature = 1.0
 
     input_eval = [char2idx[s] for s in start_string]
     input_eval = tf.expand_dims(input_eval, 0)
