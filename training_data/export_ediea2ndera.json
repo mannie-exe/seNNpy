@@ -1,0 +1,1875 @@
+{
+  "guild": {
+    "id": "328303674352730113",
+    "name": "c stands for Cool Guys",
+    "iconUrl": "https://cdn.discordapp.com/icons/328303674352730113/a_ba0351973ff76406542086e926c611ed.png"
+  },
+  "channel": {
+    "id": "788399540574879795",
+    "type": "GuildTextChat",
+    "category": "Dream Valley Zone",
+    "name": "ediea-2nd-era",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "788399603657605171",
+      "type": "Default",
+      "timestamp": "2020-12-15T13:38:33.268+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "https://app.roll20.net/join/9322926/VWGRZg",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Roll20",
+          "url": "https://app.roll20.net/join/9322926/VWGRZg",
+          "timestamp": null,
+          "description": "Roll20 brings pen-and-paper gameplay to your \t\tbrowser with features that save time and enhance your favorite parts of tabletop games.",
+          "thumbnail": {
+            "url": "https://app.roll20.net/images/Roll20-OG.png?1607445864",
+            "width": 1500,
+            "height": 1500
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788399619742760990",
+      "type": "ChannelPinnedMessage",
+      "timestamp": "2020-12-15T13:38:37.103+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pinned a message.",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788399660083576832",
+      "type": "Default",
+      "timestamp": "2020-12-15T13:38:46.721+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I will now commence the *lore dump*",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788399743188467732",
+      "type": "Default",
+      "timestamp": "2020-12-15T13:39:06.535+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Major Factions**\n\n**Ifen / Ifeni**\n    The hound of war on the most populated continent in the world, Eoza. Of the three major nations, they are the most bloodthirsty by far. Ifen is home to the most dangerously religious zealots in the world. Ifeni scripture begins with their most beloved legend : when the All-mother departed from our world to become the Dreamwhisperer she left behind a promise : he conquers all would prove worthy enough for her to climb out of her dream palace and crown a new god and husband. This fable has many variants but is undeniably the foundation of Ifen culture. \n**Yten/ Yteni**\n    The oldest nation on Eoza by far. They say if you break earth anywhere in Yten eventually you\u2019ll find corpses from a long forgotten battle, and every home is built on top of some stranger\u2019s grave. Yteni government moves slowly, and the people adapt even more slowly. Though rich in population and tradition, Yteni inflexibility to technological and magical innovation has left them victims to frequent invasion.",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788399768417075212",
+      "type": "Default",
+      "timestamp": "2020-12-15T13:39:12.55+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Ebreth / Ebrethi**\n    The Ebrethi are a desert nation. Though extremely rich in iron and other resources thanks to their bountiful mines, life here is hard. Stories say Ebreth settlers were rebels, banished from Yten long ago, and sealed away when an ancient Yteni ruler made a deal with Tautra, Keeper of Earth, to raise the Skyspear Mountains from the ground to separate the two nations. Life here is hard, but Ebrethi people thrive where they can.\n**Lorix / Lorixian**\n    Here, life is even harder. Lorix is a tiny nation on Eoza off the southern coast of Ifen, separated by a series of active volcanoes. Capital punishment isn\u2019t very popular and prisons are expensive to maintain so this sorry grouping of islands along with a bit of inhabitable pennuislla became the dumping ground of criminals from all over the world, as well as a hideaway for political refugees and practioners of illegal magic. One year a few centuries back Lorixians sent back the Ifen tribute ship empty handed and the Ifeni didn\u2019t bother doing anything about it -- there was hardly anything in Lorix worth taking. If you live in Lorix you must have pissed someone off and your life sucks, or you simply do not want to be found.",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788399797618868235",
+      "type": "Default",
+      "timestamp": "2020-12-15T13:39:19.512+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Vanash / Vanch**\n    Vanash is the large continent south of Eoza and it is a hot mess. Most of it is scorching desert but there is a swath of life that cuts through the center of it. Vanch people are tougher than their Eozan neighbors as a result of having to deal with harsher climate and more dangerous fauna, but there are far less of them. Rather than forming large cities, society here takes the form of fast changing allegiances between villages, families, and clans. Though when threatened as a collective the Vanch are willing to unite. \n**Apora / Apeche**\n    A mysterious continent only recently discovered. (if you choose to be from here you\u2019ll have to help me figure some stuff out). When lost sailors from Ifen stumbled upon unfamiliar, fungal forests they realized they weren\u2019t on the far jungle shore of Yten like they hoped, but someplace entirely different. Ifen being Ifen of course they immediately launched an invasion but were defeated by the natives using strange tactics and powerful magic. Curiously, the war was brought to an end when the Ifeni Prime Patriarch was made aware these natives weren\u2019t that different - they were dwarves, elves, humans, etc just like all the other nations. Even more curiously, they speak similar language, and worshipped the same goddess.",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788399820213714944",
+      "type": "Default",
+      "timestamp": "2020-12-15T13:39:24.899+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Note: Races and Magic** In terms of race all the official D\u0026D 5e races are present in good number throughout Eoza and Vanash, though no where are the races treated as equals, for example Ebreth has a strict caste system with dragonborn at the top and dwarves and halflings at the bottom. It varies from place to place. Apora as an exemption has a majority of elves but otherwise experiences a large amount of race diversity. In terms of magic, non-divine magic users are fairly uncommon in Eoza and Vanash but more popular in Apora, with wizards being very uncommon as dedicated study of magic is impossible as a result of religious witch-hunting. \n\n**Non-nation factions**",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788399851003052053",
+      "type": "Default",
+      "timestamp": "2020-12-15T13:39:32.24+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Listeners of the Dreamwhisperer**\n    The goddess is widely worshipped all over the world in various forms.  She is considered all seeing and all powerful and is far from silent. Her title as Dreamwhisperer comes from the most consistent way people are able to commune with her, in their sleep. In Eoza priests and clerics travel from various organizations spreading her teachings based on historical scripture. In Vanash every tribe has a dreamer(a shaman dedicated to communing with the goddess), and every family prays for her blessing before taking a meal. Apeche methods of worship are mostly unknown but many have made their bodies into living tapestries, capturing fables and stories of the goddess onto their flesh. \n**Pagan Churches** \n    Though widespread, the dreaming goddess is not the only source of divine power in the world. Some pagans worship individuals from Dreamwhisperer legend as their true gods -- for example the Craftsman, her original husband, or a specific Realmkeeper, the guardians she left behind to maintain the world in their respective elements : earth, sea, and air. Others worship something totally unrelated ( like the god-emperor of mankind or some shit, I don\u2019t know. Fill in the blank god to worship, just work it out with me if you fiendin\u2019 for somethin particular.)",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788399884818579476",
+      "type": "Default",
+      "timestamp": "2020-12-15T13:39:40.302+00:00",
+      "timestampEdited": "2020-12-15T14:39:44.441+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Independent Knight Orders**\n    Popular in Eoza are groups of religious soldiers that declare allegiance to no specific nation but instead choose their loyalty based on the will of the goddess. These groups are recognized and respected across the continent and possess a significant amount of military power.\n**Mercenary Companies**\n    Like the knights but for gold instead of god. Bit less respected, bout half as common and powerful.\n**Swamp city of Qurg**\n    The Swamp City of Qurg is a strange, goddess-forsaken place. It\u2019s long independence and neutrality has been vital to the balance of power on Eoza and serves as the only long standing tradeport between the three major nations, Lorix, and Vanash. It\u2019s ruled by the self-proclaimed Immortal God-King Yvshnar who is feared by his subjects and respected by his enemies, even the Ifeni zealots despite his blatant, unrepentant heresy. People from Qurg tend to be strange and often stand out as a result of their inability to make eye contact, and tendency to wear clothing to conceal their faces. There\u2019s a saying that goes something like, \u201CYou\u2019ll never see a Qurg\u2019s face twice.\u201D The city under Yvshnar\u2019s leadership has turned back dozens of attempted invasions just in recent history, despite lacking any sort of standing military.",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788399912114454528",
+      "type": "Default",
+      "timestamp": "2020-12-15T13:39:46.81+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Note: Intro quest** - An ancient city of Dreamwhisperer legend has been discovered in the stubborn ocean between Eoza and Apora. Global tensions are high in this gold rush but the would-be instigators of war, (Ifen if that wasn\u2019t obvious) are reeling from a recent conquest over Yten (called Ifeni-minor now by the conquerors), and a temporary solution has been reached: the Ifeni Expeditionary force that controls the ruins (but lacks the manpower to explore it properly) will allow anyone to join them so long as they bear a banner of truce and pay tribute, of course. The journey there has proved exceptionally dangerous, with as many as three in five ships finding the bottom of the ocean rather than their destination. For reasons of your choice you\u2019ve found your way to these ruins, and luckily you\u2019ve survived the trip. (we\u2019ll figure out some details about why your characters are actually a party during session zero) \n\n*caveat any of these names might possibly be changed and some things I don\u2019t have names yet for but I will ( the goddess for example )",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788400082461786172",
+      "type": "Default",
+      "timestamp": "2020-12-15T13:40:27.424+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "invite link is at the top and pinned, lemme know if any questions",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788400217807781889",
+      "type": "Default",
+      "timestamp": "2020-12-15T13:40:59.693+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "your character should have some affiliation with one of these factions or if they all sound lame to you i will smith a new one",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788400380690169917",
+      "type": "Default",
+      "timestamp": "2020-12-15T13:41:38.527+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oh yeah heres a map with some labels",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788400385807089715",
+      "type": "Default",
+      "timestamp": "2020-12-15T13:41:39.747+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [
+        {
+          "id": "788400385734869012",
+          "url": "https://cdn.discordapp.com/attachments/788399540574879795/788400385734869012/f28ec94ece7b6b85e8b68feb2445c4c1.png",
+          "fileName": "f28ec94ece7b6b85e8b68feb2445c4c1.png",
+          "fileSizeBytes": 475703
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788400695665623060",
+      "type": "Default",
+      "timestamp": "2020-12-15T13:42:53.623+00:00",
+      "timestampEdited": "2020-12-15T13:43:14.255+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "would love to do session zero sometime this weekend and start next week im good to go for the first few sessions prep-wise",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788417651738804274",
+      "type": "Default",
+      "timestamp": "2020-12-15T14:50:16.266+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "You said lore \u0022dump\u0022 this is a lore *nuke*",
+      "author": {
+        "id": "166711047707688960",
+        "name": "Koala",
+        "discriminator": "4746",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166711047707688960/526e498cc6b84b7ed16503a49f65bb27.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788419497555394610",
+      "type": "Default",
+      "timestamp": "2020-12-15T14:57:36.343+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":yes:",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788419579071823933",
+      "type": "Default",
+      "timestamp": "2020-12-15T14:57:55.778+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "busy night",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788423445255815178",
+      "type": "Default",
+      "timestamp": "2020-12-15T15:13:17.548+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "you interested in playin? @Koala",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "166711047707688960",
+          "name": "Koala",
+          "discriminator": 4746,
+          "nickname": "Koala",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "788423846184091648",
+      "type": "Default",
+      "timestamp": "2020-12-15T15:14:53.137+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oh right you have work and probably cant read through all this rn",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788427146464198677",
+      "type": "Default",
+      "timestamp": "2020-12-15T15:27:59.985+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I\u0027m working from home and reading this during a conf call lol",
+      "author": {
+        "id": "166711047707688960",
+        "name": "Koala",
+        "discriminator": "4746",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166711047707688960/526e498cc6b84b7ed16503a49f65bb27.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788427289209077800",
+      "type": "Default",
+      "timestamp": "2020-12-15T15:28:34.018+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "unfortunately I can\u0027t really commit to a full campaign rn, especially this month since in a week i\u0027ll be traveling",
+      "author": {
+        "id": "166711047707688960",
+        "name": "Koala",
+        "discriminator": "4746",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166711047707688960/526e498cc6b84b7ed16503a49f65bb27.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788427946716299285",
+      "type": "Default",
+      "timestamp": "2020-12-15T15:31:10.78+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "kk this will run a few months at least so you could jump in sometime in january maybs",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788431471253520424",
+      "type": "Default",
+      "timestamp": "2020-12-15T15:45:11.095+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I could be an on again/off again character at most lol",
+      "author": {
+        "id": "166711047707688960",
+        "name": "Koala",
+        "discriminator": "4746",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166711047707688960/526e498cc6b84b7ed16503a49f65bb27.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788432800981843968",
+      "type": "Default",
+      "timestamp": "2020-12-15T15:50:28.127+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":worryThumbsUpSad:",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788434711517200384",
+      "type": "Default",
+      "timestamp": "2020-12-15T15:58:03.634+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "we\u0027ll see once it gets to January",
+      "author": {
+        "id": "166711047707688960",
+        "name": "Koala",
+        "discriminator": "4746",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166711047707688960/526e498cc6b84b7ed16503a49f65bb27.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788434920418181160",
+      "type": "Default",
+      "timestamp": "2020-12-15T15:58:53.44+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yee",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788434966958309406",
+      "type": "Default",
+      "timestamp": "2020-12-15T15:59:04.536+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oh well you\u0027ll just missout on my homebrew *death table*",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788510594885222411",
+      "type": "Default",
+      "timestamp": "2020-12-15T20:59:35.639+00:00",
+      "timestampEdited": "2020-12-15T20:59:41.327+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the ever important question.\nwhat flavor of waifu have I not made yet?\nI\u0027ve done noble but naive...noble\nI\u0027ve done sassy morally gray waifu\nBig Sister type\nStrong slappy type\nAirhead (Tomboy)\nand Airhead (Chuuni/Bimbo hybrid)\nand Pure maiden",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788524748241502238",
+      "type": "Default",
+      "timestamp": "2020-12-15T21:55:50.062+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ummm",
+      "author": {
+        "id": "166711047707688960",
+        "name": "Koala",
+        "discriminator": "4746",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166711047707688960/526e498cc6b84b7ed16503a49f65bb27.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788524793808683059",
+      "type": "Default",
+      "timestamp": "2020-12-15T21:56:00.926+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the mischevious teasing type?",
+      "author": {
+        "id": "166711047707688960",
+        "name": "Koala",
+        "discriminator": "4746",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166711047707688960/526e498cc6b84b7ed16503a49f65bb27.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788524912167354369",
+      "type": "Default",
+      "timestamp": "2020-12-15T21:56:29.145+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think Burgundy had that going for her",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788527945165438986",
+      "type": "Default",
+      "timestamp": "2020-12-15T22:08:32.268+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think some I\u0027ve not done for this group are\n-Ara Ara Milf\n-Big Tiddy Goth GF\n-Stuck up Noble that\u0027s kind of a bitch, but not in a way that\u0027s grating or gets the party into extra trouble by making any diplomacy impossible because she\u0027s an obstinate brat",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788533515657674803",
+      "type": "Default",
+      "timestamp": "2020-12-15T22:30:40.377+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "is this setting related to the game project we attempted last year?",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788533694054924329",
+      "type": "Default",
+      "timestamp": "2020-12-15T22:31:22.91+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "theres some ideas i cannablized but overall not really",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788538666343071784",
+      "type": "Default",
+      "timestamp": "2020-12-15T22:51:08.396+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "character stats are 3d6, 2 sets of 6 pick which one you want. if your average modifier is \u002B1 or lower let me know and we can make a deal (gain a cool thing to compensate for bad stats) or you can roll again",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788699583219892224",
+      "type": "Default",
+      "timestamp": "2020-12-16T09:30:33.969+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "How do we feel about Celestial Warlocks?\nWarlocks are generally perceived evil, which I feel the celestial subclass kinda\u0027 \u0022subverts\u0022 (aka make redundant in a fun way). What \u0022Celestial\u0022 patron would you picture? I immediately thought of the Goddess, especially with the dream communication stuff.\nBeing a Warlock to the Goddess sounds kind of stronk though, so let me know if that\u0027s on the table, or how that would affect my relationships with the Whisperers or the IKO.",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788705387704352818",
+      "type": "Default",
+      "timestamp": "2020-12-16T09:53:37.866+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "First of all, I don\u0027t think the association of warlock and evil would be very strong here. A Celestial Warlock in this setting  would be like someone that has made a divine connection to some entity, like the Dreamwhisperer for example but bypasses or disregards the church or whatever existing structure of faith. In Ifen the effect of this would be the church really hates you, because you prove that they are in some ways redundant, but your powers are indisputable and respected.",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788705886826790932",
+      "type": "Default",
+      "timestamp": "2020-12-16T09:55:36.866+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it gets trickier but potentially more interesting if you choose a patron besides the Dreamwhisperer. For example, Vyshnar, Immortal God-King of Qurg could be your patron and your character as a Qurg would be **very** differently received compared to the previous example.",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788707454526423060",
+      "type": "Default",
+      "timestamp": "2020-12-16T10:01:50.635+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "there are some other strong options too, like the Craftsman, first of good men and husband to the goddess when she walked among mortals. There\u0027s an entity I\u0027ll call the Forlorn Wanderer who\u0027s the Realmkeeper of the afterlife -- his domain is the realm between the mortal world we live in and the void that awaits all mortal souls after death.",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788807554435776592",
+      "type": "Default",
+      "timestamp": "2020-12-16T16:39:36.313+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "basically Celestial warlocks are the kids who got a meager 1 million donation from their parents to start a business",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789172725427470336",
+      "type": "Default",
+      "timestamp": "2020-12-17T16:50:39.862+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Demi Tarot @mannie.exe chu two are the only ones not squared away on char lemme know if you need my help with anythin\u0027 or make some progress",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "146003873935392768",
+          "name": "Demi Tarot",
+          "discriminator": 2445,
+          "nickname": "Demi Tarot",
+          "isBot": false
+        },
+        {
+          "id": "127228258847686657",
+          "name": "mannie.exe",
+          "discriminator": 9999,
+          "nickname": "mannie.exe",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "789188350971478077",
+      "type": "Default",
+      "timestamp": "2020-12-17T17:52:45.282+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "just a bit of the ol Choice paralysis",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789188422124044289",
+      "type": "Default",
+      "timestamp": "2020-12-17T17:53:02.246+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I\u0027m trying to get over it by not depending on other people as much",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789188521759080488",
+      "type": "Default",
+      "timestamp": "2020-12-17T17:53:26.001+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but in this case since it\u0027s a co-operative party thing it might not be super bad to get some insight on preferences",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789189312591429663",
+      "type": "Default",
+      "timestamp": "2020-12-17T17:56:34.55+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "you talkin flavor wise or more class/party complimenting wise?",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789190194430607390",
+      "type": "Default",
+      "timestamp": "2020-12-17T18:00:04.797+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "...yes",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789190263331487754",
+      "type": "Default",
+      "timestamp": "2020-12-17T18:00:21.224+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I\u0027ll type up my current stuff with their pros and cons after I get my hot pocket",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789198212652204042",
+      "type": "Default",
+      "timestamp": "2020-12-17T18:31:56.49+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "you ever have to reheat a hot pocket because everything went to shit as soon as you get it out of the microwave?",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789199233881735220",
+      "type": "Default",
+      "timestamp": "2020-12-17T18:35:59.97+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ah yes the hotter pocket",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789199431328202762",
+      "type": "Default",
+      "timestamp": "2020-12-17T18:36:47.045+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "goat problems",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789209026827255868",
+      "type": "Default",
+      "timestamp": "2020-12-17T19:14:54.79+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "let\u0027s move on to this to stave off a mental breakdown, yes",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789209032979120138",
+      "type": "Default",
+      "timestamp": "2020-12-17T19:14:56.257+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://i.gyazo.com/feeccb8e756da751afb7d5b22e56e486.png",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://i.gyazo.com/feeccb8e756da751afb7d5b22e56e486.png",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://i.gyazo.com/feeccb8e756da751afb7d5b22e56e486.png",
+            "width": 1195,
+            "height": 742
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789210349860945990",
+      "type": "Default",
+      "timestamp": "2020-12-17T19:20:10.226+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Note that those designs are far from final, they were basically an anchor point to work from\n\nGold: Protector Aasimar, Divine Soul Sorcerer.\nPros: Ara Ara MILF. Fits very nicely in the setting. Motivation is simple but effective. Very clear voice of reason\nCons: We got a lot of divine firepower in the party comp so far.\n\nPurple: Fallen Aasimar, Shadow Sorcerer\nPros: Big Tiddy Goth GF. Good contrast to the party. A slightly more edgy voice of reason\nCons: Motivation may take a bit of lore wiggles\n\nGreen: Aladrin (Rogue, Bard or Fighter)\nPros: Midriff, Interesting Personality\nCons: presently unclear motivations,",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789214775292329994",
+      "type": "Default",
+      "timestamp": "2020-12-17T19:37:45.331+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i love lore wiggles",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789215357532766280",
+      "type": "Default",
+      "timestamp": "2020-12-17T19:40:04.148+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "shout out to the time someone wanted to be necromancer in once of my settings where I deliberately said that animating the dead was the same type of magic as making golems, and \u0022necromantic\u0022 or \u0022negative energy\u0022 didn\u0027t exist, but rather than say no I wound up thinking of how ghosts and undead worked in the setting and ended up with cool stuff",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789217624473993216",
+      "type": "Default",
+      "timestamp": "2020-12-17T19:49:04.629+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "for Aasimar purposes basically means yer mum or yer dad was one of the five direct descendants of the goddess, these are immortal beings and most of them have cults or sects of worship in their own right but aren\u0027t quite god-level power. I haven\u0027t given them names yet but they are roughly The Heiress, The Mage, The Trickster, The Reclaimer, and The Disowned.  if you\u0027d like to know more about any of your potentially divine dads or mums i can extrapolate",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789217930835525642",
+      "type": "Default",
+      "timestamp": "2020-12-17T19:50:17.671+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I AM RECLAIMER OF MY NAAAAAME\nBORN IN FLAMES! I HAVE BEEN BLESSED!\n***MY FAMILY CREST IS A DEMON OF DEATH~***",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789217973570895873",
+      "type": "Default",
+      "timestamp": "2020-12-17T19:50:27.86+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83E\uDD18",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789218058635051048",
+      "type": "Default",
+      "timestamp": "2020-12-17T19:50:48.141+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but I can imagine which one would go to which concept are obvious",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789218427893055498",
+      "type": "Default",
+      "timestamp": "2020-12-17T19:52:16.179+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ye. its more shorthand for the most notable thing about them, of course these are Real Characters with Multi Dimensional Personalities but those dont need to exist yet \uD83D\uDE42",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789218666310795314",
+      "type": "Default",
+      "timestamp": "2020-12-17T19:53:13.022+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I do want to try a Scourge Aasimar at some point\nbut that\u0027s for another game",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789563167117934633",
+      "type": "Default",
+      "timestamp": "2020-12-18T18:42:08.415+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Other than some outfit embellishments, I think Vikara is done",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789563485876650026",
+      "type": "Default",
+      "timestamp": "2020-12-18T18:43:24.413+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What\u0027d ya pick?",
+      "author": {
+        "id": "103686616685481984",
+        "name": "Mujin",
+        "discriminator": "2371",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/103686616685481984/a970347cddf3848d768d63e882d82533.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789567036900245506",
+      "type": "Default",
+      "timestamp": "2020-12-18T18:57:31.043+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Fighter Eladrin Swamp Yakuza",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789567133046407189",
+      "type": "Default",
+      "timestamp": "2020-12-18T18:57:53.966+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://images-ext-2.discordapp.net/external/0CWX6MqvmOBoYOqSgSKEq-z67OMkNIFCi6rkT0xZVx0/https/i.gyazo.com/9b61359076c8db73b1d8eb5d7d8e8157.png?width=569\u0026height=701",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://images-ext-2.discordapp.net/external/0CWX6MqvmOBoYOqSgSKEq-z67OMkNIFCi6rkT0xZVx0/https/i.gyazo.com/9b61359076c8db73b1d8eb5d7d8e8157.png?width=569\u0026height=701",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/0CWX6MqvmOBoYOqSgSKEq-z67OMkNIFCi6rkT0xZVx0/https/i.gyazo.com/9b61359076c8db73b1d8eb5d7d8e8157.png?width=569\u0026height=701",
+            "width": 569,
+            "height": 701
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789953429933654026",
+      "type": "Default",
+      "timestamp": "2020-12-19T20:32:54.321+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "GIMMIE TOKEN COLORS AND CHARACTER DESCRIPTIONS",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789953960299593778",
+      "type": "Default",
+      "timestamp": "2020-12-19T20:35:00.77+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this is mike\u0027s reference pic",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [
+        {
+          "id": "789953960093024266",
+          "url": "https://cdn.discordapp.com/attachments/788399540574879795/789953960093024266/med.png",
+          "fileName": "med.png",
+          "fileSizeBytes": 237020
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789954768411295745",
+      "type": "Default",
+      "timestamp": "2020-12-19T20:38:13.439+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ac1ff2",
+      "author": {
+        "id": "139882026965663744",
+        "name": "timlives",
+        "discriminator": "7045",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/139882026965663744/6af5625f153356a56eb881f38e53169d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789954821397676042",
+      "type": "Default",
+      "timestamp": "2020-12-19T20:38:26.072+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.google.com/search?client=firefox-b-1-d\u0026q=%23ac1ff2",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789956107082399784",
+      "type": "Default",
+      "timestamp": "2020-12-19T20:43:32.603+00:00",
+      "timestampEdited": "2020-12-19T20:45:36.715+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Mikkle - Indigo\n*v*Mike - Goldish Brown or Brownish Gold like a fine cooked chicken. mmmmm....\nMe - Green\nMannie -\nmChuque - Icy Blue",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789966183965130752",
+      "type": "Default",
+      "timestamp": "2020-12-19T21:23:35.119+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Mujin",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [
+        {
+          "id": "789966183758954536",
+          "url": "https://cdn.discordapp.com/attachments/788399540574879795/789966183758954536/RhogarToken.png",
+          "fileName": "RhogarToken.png",
+          "fileSizeBytes": 33127
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "103686616685481984",
+          "name": "Mujin",
+          "discriminator": 2371,
+          "nickname": "Mujin",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "790030824795668521",
+      "type": "Default",
+      "timestamp": "2020-12-20T01:40:26.694+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [
+        {
+          "id": "790030824925298698",
+          "url": "https://cdn.discordapp.com/attachments/788399540574879795/790030824925298698/OccultaToken.png",
+          "fileName": "OccultaToken.png",
+          "fileSizeBytes": 51813
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "790044292751294504",
+      "type": "Default",
+      "timestamp": "2020-12-20T02:33:57.705+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [
+        {
+          "id": "790044292596236288",
+          "url": "https://cdn.discordapp.com/attachments/788399540574879795/790044292596236288/FendanToken.png",
+          "fileName": "FendanToken.png",
+          "fileSizeBytes": 38938
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "790044801147863051",
+      "type": "Default",
+      "timestamp": "2020-12-20T02:35:58.916+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "that just leaves Manmanmanmanmanmanman",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "790046073762086923",
+      "type": "Default",
+      "timestamp": "2020-12-20T02:41:02.331+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "who",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "790046144230326283",
+      "type": "Default",
+      "timestamp": "2020-12-20T02:41:19.132+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "your personage",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "790058787608068158",
+      "type": "Default",
+      "timestamp": "2020-12-20T03:31:33.548+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh God I\u0027m hot",
+      "author": {
+        "id": "749820163221618728",
+        "name": "ChuckRadaman",
+        "discriminator": "5756",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/749820163221618728/9e2cdd23166e74f7ac1fe3f3fda61d0a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "790332158690197504",
+      "type": "Default",
+      "timestamp": "2020-12-20T21:37:50.293+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "mike got ganked by family plans he forgot about tomorrow so we can play Tues or Sat instead if schedules allow",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "790332240139517953",
+      "type": "Default",
+      "timestamp": "2020-12-20T21:38:09.712+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Twesday works",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "790332312591925290",
+      "type": "Default",
+      "timestamp": "2020-12-20T21:38:26.986+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ye bet",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "790332512773210122",
+      "type": "Default",
+      "timestamp": "2020-12-20T21:39:14.713+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@ChuckRadaman @timlives @mannie.exe @Mujin",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "139882026965663744",
+          "name": "timlives",
+          "discriminator": 7045,
+          "nickname": "timlives",
+          "isBot": false
+        },
+        {
+          "id": "127228258847686657",
+          "name": "mannie.exe",
+          "discriminator": 9999,
+          "nickname": "mannie.exe",
+          "isBot": false
+        },
+        {
+          "id": "103686616685481984",
+          "name": "Mujin",
+          "discriminator": 2371,
+          "nickname": "Mujin",
+          "isBot": false
+        },
+        {
+          "id": "749820163221618728",
+          "name": "ChuckRadaman",
+          "discriminator": 5756,
+          "nickname": "ChuckRadaman",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "790332531173883905",
+      "type": "Default",
+      "timestamp": "2020-12-20T21:39:19.1+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "we good for tues?",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "790332648639430696",
+      "type": "Default",
+      "timestamp": "2020-12-20T21:39:47.106+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Another day to procrastinate-- yes.",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "790332663008329729",
+      "type": "Default",
+      "timestamp": "2020-12-20T21:39:50.532+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ye",
+      "author": {
+        "id": "103686616685481984",
+        "name": "Mujin",
+        "discriminator": "2371",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/103686616685481984/a970347cddf3848d768d63e882d82533.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "790332759625170945",
+      "type": "Default",
+      "timestamp": "2020-12-20T21:40:13.567+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":PepoCheer:",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 86
+}

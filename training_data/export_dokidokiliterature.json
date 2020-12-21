@@ -1,0 +1,3870 @@
+{
+  "guild": {
+    "id": "328303674352730113",
+    "name": "c stands for Cool Guys",
+    "iconUrl": "https://cdn.discordapp.com/icons/328303674352730113/a_ba0351973ff76406542086e926c611ed.png"
+  },
+  "channel": {
+    "id": "374969230770044949",
+    "type": "GuildTextChat",
+    "category": "Writing Hill Zone",
+    "name": "doki-doki-literature",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "374969386936696833",
+      "type": "Default",
+      "timestamp": "2017-10-31T17:14:28.44+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pitter patter,\nThe raindrops shimmer across the surface.\nCold, so cold,\nIt\u0027s snowing on Mt. Fuji.",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "374969786112802817",
+      "type": "Default",
+      "timestamp": "2017-10-31T17:16:03.611+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh this is quite neat.\nWhat a wonderful channel.\nThis is a haiku",
+      "author": {
+        "id": "166711047707688960",
+        "name": "Koala",
+        "discriminator": "4746",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166711047707688960/526e498cc6b84b7ed16503a49f65bb27.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "374969935157264387",
+      "type": "Default",
+      "timestamp": "2017-10-31T17:16:39.146+00:00",
+      "timestampEdited": "2017-10-31T17:16:51.922+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Waiting patiently,\n surrounded by monkeys, \nI want to go home",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "374969946939064330",
+      "type": "Default",
+      "timestamp": "2017-10-31T17:16:41.955+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "College",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "374970366185177089",
+      "type": "Default",
+      "timestamp": "2017-10-31T17:18:21.911+00:00",
+      "timestampEdited": "2017-10-31T17:18:32.87+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "All are but monkeys,\nIn the clothing of a saint,\nAnd each saint a monkey,\nIn the clothing of itself.",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "374970388448542721",
+      "type": "Default",
+      "timestamp": "2017-10-31T17:18:27.219+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Shimmering souls sailing towards the sunset\nDancing dreams drooling on their desks \nTelling tales of life\u0027s troubles \nWhere is my professor",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "374970430957813761",
+      "type": "Default",
+      "timestamp": "2017-10-31T17:18:37.354+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I wanna hear a poem\nI wanna learn something I didn\u2019t know\nI wanna say \u0022yes\u0022 at the end, because I\u0027m sick of saying \u0022so?\u0022\n\nI wanna hear a poem about who you are\nAnd what you think\nAnd why you slam\nNot a poem about me and my poem\nBecause I know who I am\n\nI wanna hear a love poem\nA sad poem\nAn \u0022I hate my dad\u0022 poem\nA dream poem\nAn \u0022I\u0027m not what I seem\u0022 poem\nAn \u0022I need\u0022 poem\nAn \u0022I also bleed\u0022 poem\nAn \u0022I\u0027m alone\u0022 poem\nAn \u0022I can\u0027t find my home\u0022 poem\nI just wanna hear a poem\n\nI wanna hear a poem about revolution\nAbout fists raised high\nAnd hips twisting in a rumble like a rumba\nI wanna follow the footsteps of Ch\u00E8\nAnd hear the truth about the day the CIA killed Lumumba\n\nI wanna hear a poem about struggle\nSo that when I open my mouth, I can step outside myself\nI wanna listen to no less than the sounds of protest\nIn the factories where workers sweat and make Air Jordans and Pro-Keds because\nIf you wanna take shots at people\nTarget Phil Knight and Bill Gates\nContemplate how\nThey own the products\nAnd they got the goods\nHow they act like they care\nBut they\u0027re just Robin Hoods\n\nI wanna hear a poem where ideas kiss similes so deeply that metaphors get jealous\nWhere the subject matters so much that adjectives start holding pro-noun rallies at city hall\n\nBecause I wanna hear a poem that attacks the status quo\nThat attracts the claps of the cats with the fattest flows\nThat makes the crowd pass the hat\nAnd pack my cap with a stack of dough\nI wanna hear a poem that makes this audience yell \u201Choooo!\u201D (hoooo!)\n\nBecause I wanna guess your favorite color\nThen craft rhyme schemes out of thin air\nI wanna hear a poem about why the statute of limitations for rape is only five years\nI wanna hear a poem\nI wanna feel a poem\nI wanna taste a poem\nGive me your spot on the mic if you wanna waste a poem\n\nI wanna\nHear\nA poem",
+      "author": {
+        "id": "166711047707688960",
+        "name": "Koala",
+        "discriminator": "4746",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166711047707688960/526e498cc6b84b7ed16503a49f65bb27.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "374970460800286721",
+      "type": "Default",
+      "timestamp": "2017-10-31T17:18:44.469+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I\u0027m pissed.",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "374970533047173140",
+      "type": "Default",
+      "timestamp": "2017-10-31T17:19:01.694+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "^Actually a really neat slam poem by Steve Colman",
+      "author": {
+        "id": "166711047707688960",
+        "name": "Koala",
+        "discriminator": "4746",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166711047707688960/526e498cc6b84b7ed16503a49f65bb27.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "374970684079603726",
+      "type": "Default",
+      "timestamp": "2017-10-31T17:19:37.703+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah, I\u0027m reading it. Pretty powerful stuff.",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "374970791218905108",
+      "type": "Default",
+      "timestamp": "2017-10-31T17:20:03.247+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@a ghost with purpose we had to memorize and recite this for one of my speaking exercises",
+      "author": {
+        "id": "166711047707688960",
+        "name": "Koala",
+        "discriminator": "4746",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166711047707688960/526e498cc6b84b7ed16503a49f65bb27.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "137355811113533440",
+          "name": "a ghost with purpose",
+          "discriminator": 666,
+          "nickname": "a burst of potential",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "374970945015644160",
+      "type": "Default",
+      "timestamp": "2017-10-31T17:20:39.915+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i fucking nailed it",
+      "author": {
+        "id": "166711047707688960",
+        "name": "Koala",
+        "discriminator": "4746",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166711047707688960/526e498cc6b84b7ed16503a49f65bb27.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "374971012745527297",
+      "type": "Default",
+      "timestamp": "2017-10-31T17:20:56.063+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDC4F \uD83D\uDC4F \uD83D\uDC4F",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "374971023138881547",
+      "type": "Default",
+      "timestamp": "2017-10-31T17:20:58.541+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I wanna hear a poem",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "375020587799543808",
+      "type": "Default",
+      "timestamp": "2017-10-31T20:37:55.677+00:00",
+      "timestampEdited": "2017-10-31T20:38:39.54+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Happy friends \nEverywhere around me\nLong day full of fun\nPlaying alot\nMany leave now\nEnticed by bed",
+      "author": {
+        "id": "139882026965663744",
+        "name": "timlives",
+        "discriminator": "7045",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/139882026965663744/6af5625f153356a56eb881f38e53169d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "375021130970562561",
+      "type": "Default",
+      "timestamp": "2017-10-31T20:40:05.179+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDC0C \uD83C\uDF4B",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "375024256184090664",
+      "type": "Default",
+      "timestamp": "2017-10-31T20:52:30.288+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**_AAGGHHHHH_**,\n**_AAGGHHH_**?\n**_AAGGHHHH_**...\nIt\u0027s **_AAGGHHH_**ing on Mt. Fuji",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "375024370072027137",
+      "type": "Default",
+      "timestamp": "2017-10-31T20:52:57.441+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oooh, how avant garde",
+      "author": {
+        "id": "166711047707688960",
+        "name": "Koala",
+        "discriminator": "4746",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166711047707688960/526e498cc6b84b7ed16503a49f65bb27.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "375031526087196674",
+      "type": "Default",
+      "timestamp": "2017-10-31T21:21:23.568+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "keeping good company\nAdventuring with friends \nforgetting all troubles \n\n...\nScreen goes dark\nI\u0027m alone in my room\n\n....",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "375038312647229450",
+      "type": "Default",
+      "timestamp": "2017-10-31T21:48:21.61+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Roses are red\nViolets are blue\nOmae wa \nMou shinderu",
+      "author": {
+        "id": "166711047707688960",
+        "name": "Koala",
+        "discriminator": "4746",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166711047707688960/526e498cc6b84b7ed16503a49f65bb27.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "375179833023528960",
+      "type": "Default",
+      "timestamp": "2017-11-01T07:10:42.697+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "^ yes",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "375187741467475968",
+      "type": "Default",
+      "timestamp": "2017-11-01T07:42:08.217+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Find a penny pick it up\nI put that penny in a cup\nnow I got a penny in a cup\nnow who\u0027s the chump\nBubba Gump\nI\u0027m gonna blow everyone up",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "376162830086438932",
+      "type": "Default",
+      "timestamp": "2017-11-04T00:16:47.46+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "sticks and stones may break my bones",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "376162836734410753",
+      "type": "Default",
+      "timestamp": "2017-11-04T00:16:49.045+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "my friends are dead",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "376163051109613568",
+      "type": "Default",
+      "timestamp": "2017-11-04T00:17:40.156+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sticks and stones may break my bones\nBut words cause immeasurable psychological damage",
+      "author": {
+        "id": "166711047707688960",
+        "name": "Koala",
+        "discriminator": "4746",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166711047707688960/526e498cc6b84b7ed16503a49f65bb27.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "376163092410662913",
+      "type": "Default",
+      "timestamp": "2017-11-04T00:17:50.003+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I, I I I, I \u003C I == I \u003C\u003C I AM,\nI I, UII I, I",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "376254945885814784",
+      "type": "Default",
+      "timestamp": "2017-11-04T06:22:49.578+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "166711047707688960",
+        "name": "Koala",
+        "discriminator": "4746",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166711047707688960/526e498cc6b84b7ed16503a49f65bb27.png"
+      },
+      "attachments": [
+        {
+          "id": "376254945449738251",
+          "url": "https://cdn.discordapp.com/attachments/374969230770044949/376254945449738251/m0q8e93eqrvz.png",
+          "fileName": "m0q8e93eqrvz.png",
+          "fileSizeBytes": 226158
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "379359976658829323",
+      "type": "Default",
+      "timestamp": "2017-11-12T20:01:06.603+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "AGH",
+      "author": {
+        "id": "166711047707688960",
+        "name": "Koala",
+        "discriminator": "4746",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166711047707688960/526e498cc6b84b7ed16503a49f65bb27.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "379360019545587712",
+      "type": "Default",
+      "timestamp": "2017-11-12T20:01:16.828+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*fin*",
+      "author": {
+        "id": "166711047707688960",
+        "name": "Koala",
+        "discriminator": "4746",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166711047707688960/526e498cc6b84b7ed16503a49f65bb27.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "381747261845274634",
+      "type": "Default",
+      "timestamp": "2017-11-19T10:07:19.745+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Do not stand at my grave and weep \nI am not there. I do not sleep. \nI am a thousand winds that blow. \nI am the diamond glints on snow. \nI am the sunlight on ripened grain. \nI am the gentle autumn rain. \nWhen you awaken in the morning\u0027s hush \nI am the swift uplifting rush \nOf quiet birds in circled flight. \nI am the soft stars that shine at night. \nDo not stand at my grave and cry; \nI am not there. I did not die.",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2764",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2764.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "381747322939244545",
+      "type": "Default",
+      "timestamp": "2017-11-19T10:07:34.311+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "- Misaka Mikoto",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "381804500777959444",
+      "type": "Default",
+      "timestamp": "2017-11-19T13:54:46.57+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the older you get \nthe more you realize that life \nis like minecraft",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u26CF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/26cf.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "382792410796916737",
+      "type": "Default",
+      "timestamp": "2017-11-22T07:20:22.673+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i queue up\ni play my best\ni leave my soul behind",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "382792427066621962",
+      "type": "Default",
+      "timestamp": "2017-11-22T07:20:26.552+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i queue up again",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "384555532599427074",
+      "type": "Default",
+      "timestamp": "2017-11-27T04:06:23.668+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\u0022A recent New Yorker cartoon summed up these recent anxieties: Two grown-ups face a child in a wall of solidarity, explaining, \u201CWe\u2019re neither software nor hardware. We\u2019re your parents.\u201D This cartoon reminds me of a statement someone I interviewed once made about simulation and authenticity: \u201CSimulated thinking can be thinking, but simulated feeling can never be feeling. Simulated love is never love.\u201D The more we manipulate ourselves and the more our artifacts seek pride of place beside us as social and psychological equals, the more we find the issue of authenticity confronting us. Authenticity is becoming to us what sex was to the Victorians\u2014an object of threat and obsession, of taboo and fascination.\u0022",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "392350763772280842",
+      "type": "Default",
+      "timestamp": "2017-12-18T16:21:51.608+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://78.media.tumblr.com/a524e5d77c192512bf1a92f4a3e45044/tumblr_inline_p15nxiZoHj1t9kkcx_540.png",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://78.media.tumblr.com/a524e5d77c192512bf1a92f4a3e45044/tumblr_inline_p15nxiZoHj1t9kkcx_540.png",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://78.media.tumblr.com/a524e5d77c192512bf1a92f4a3e45044/tumblr_inline_p15nxiZoHj1t9kkcx_540.png",
+            "width": 540,
+            "height": 481
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "411604121972375554",
+      "type": "Default",
+      "timestamp": "2018-02-09T19:27:49.913+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [
+        {
+          "id": "411604121540493313",
+          "url": "https://cdn.discordapp.com/attachments/374969230770044949/411604121540493313/DVG9JexW4AEPfGT.png",
+          "fileName": "DVG9JexW4AEPfGT.png",
+          "fileSizeBytes": 868555
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "415609660926590978",
+      "type": "Default",
+      "timestamp": "2018-02-20T20:44:24.819+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=AWsKuifJj0c",
+      "author": {
+        "id": "166711047707688960",
+        "name": "Koala",
+        "discriminator": "4746",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166711047707688960/526e498cc6b84b7ed16503a49f65bb27.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The New Dark Path in Doki Doki Literature Club",
+          "url": "https://www.youtube.com/watch?v=AWsKuifJj0c",
+          "timestamp": null,
+          "description": "Something incredibly awful has happened in DDLC in the new update, let\u0027s take a look! \u25CF Join DDLC Amino: http://aminoapps.com/c/DDLC/join \u25CF Follow me: Indeim...",
+          "author": {
+            "name": "Indeimaus",
+            "url": "https://www.youtube.com/user/indeimaus"
+          },
+          "thumbnail": {
+            "url": "https://i.ytimg.com/vi/AWsKuifJj0c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "415614109770317825",
+      "type": "Default",
+      "timestamp": "2018-02-20T21:02:05.506+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@timlives  bitch im gona overlord u tonight dont forget",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "139882026965663744",
+          "name": "timlives",
+          "discriminator": 7045,
+          "nickname": "timlives",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "415614190921973771",
+      "type": "Default",
+      "timestamp": "2018-02-20T21:02:24.854+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hot",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "415647735669063682",
+      "type": "Default",
+      "timestamp": "2018-02-20T23:15:42.545+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "http://vilcurio.tumblr.com/post/171105708557/satsuki-ut-happy-valentines-day",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "vilcurio",
+          "url": "http://vilcurio.tumblr.com/post/171105708557/satsuki-ut-happy-valentines-day",
+          "timestamp": null,
+          "description": "satsuki-ut:\n\u201C Happy Valentines Day\n\u201D",
+          "author": {
+            "name": "Jcdr\u0027s Uncreative Hole",
+            "url": "http://vilcurio.tumblr.com/"
+          },
+          "thumbnail": {
+            "url": "http://78.media.tumblr.com/tumblr_p4g9s4VIkF1vg4sl3_smart1.jpg",
+            "width": 512,
+            "height": 386
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "415689888038387712",
+      "type": "Default",
+      "timestamp": "2018-02-21T02:03:12.453+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://cdn.discordapp.com/attachments/352890337863139329/415687382512304138/tumblr_p4ea6movsU1vnk7uuo1_1280.png",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://cdn.discordapp.com/attachments/352890337863139329/415687382512304138/tumblr_p4ea6movsU1vnk7uuo1_1280.png",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://cdn.discordapp.com/attachments/352890337863139329/415687382512304138/tumblr_p4ea6movsU1vnk7uuo1_1280.png",
+            "width": 1280,
+            "height": 1259
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "453845460415676450",
+      "type": "Default",
+      "timestamp": "2018-06-06T08:59:49.804+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://twitter.com/DelilahSDawson/status/1003797538271629312",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://twitter.com/DelilahSDawson/status/1003797538271629312",
+          "timestamp": null,
+          "description": "Do Not Like Thunder, a poem by my dog\n*\nTHERE IS A SOUND BIGGER THAN A BORK\nIT IS EVERYWHERE\nEXCEPT BY YOU\nSO I CREEP CLOSE\nPRESS ON YOUR LEG\nDO YOU HEAR THE THING\nTHE SKY BORKING\nIT DOES A FLASH\nI DO A WHIMPER\nTHE ONLY GOOD PLACE\nIS WHERE YOU ARE\nI BORK SO SOFT\nIT CANNOT ...",
+          "author": {
+            "name": "Delilah S. Dawson (@DelilahSDawson)",
+            "url": "https://twitter.com/DelilahSDawson",
+            "iconUrl": "https://pbs.twimg.com/profile_images/1003107344484585472/ON-n2TzT_bigger.jpg"
+          },
+          "footer": {
+            "text": "Twitter",
+            "iconUrl": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png"
+          },
+          "fields": [
+            {
+              "name": "Retweets",
+              "value": "827",
+              "isInline": true
+            },
+            {
+              "name": "Likes",
+              "value": "3139",
+              "isInline": true
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "479303001543016448",
+      "type": "Default",
+      "timestamp": "2018-08-15T14:59:00.587+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://i.redd.it/6dn24vy4y6g11.png",
+      "author": {
+        "id": "166711047707688960",
+        "name": "Koala",
+        "discriminator": "4746",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166711047707688960/526e498cc6b84b7ed16503a49f65bb27.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://i.redd.it/6dn24vy4y6g11.png",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://i.redd.it/6dn24vy4y6g11.png",
+            "width": 807,
+            "height": 1906
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "483480280640913408",
+      "type": "Default",
+      "timestamp": "2018-08-27T03:38:01.534+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://i.imgur.com/k9IN7pm.jpg",
+      "author": {
+        "id": "166711047707688960",
+        "name": "Koala",
+        "discriminator": "4746",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166711047707688960/526e498cc6b84b7ed16503a49f65bb27.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Cheery",
+          "url": "https://imgur.com/k9IN7pm",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://i.imgur.com/k9IN7pm.jpg",
+            "width": 960,
+            "height": 885
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "507649091740762113",
+      "type": "Default",
+      "timestamp": "2018-11-01T20:16:15.135+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://cdn.discordapp.com/attachments/398036382137974785/507382560062439436/image0.jpg",
+      "author": {
+        "id": "166711047707688960",
+        "name": "Koala",
+        "discriminator": "4746",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166711047707688960/526e498cc6b84b7ed16503a49f65bb27.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://cdn.discordapp.com/attachments/398036382137974785/507382560062439436/image0.jpg",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://cdn.discordapp.com/attachments/398036382137974785/507382560062439436/image0.jpg",
+            "width": 500,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "519317616397910033",
+      "type": "Default",
+      "timestamp": "2018-12-04T01:02:48.204+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "y!ignore",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "519359863491657728",
+      "type": "Default",
+      "timestamp": "2018-12-04T03:50:40.696+00:00",
+      "timestampEdited": "2018-12-04T03:58:24.57+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "_I do not think so--\nno worries.\nMaybe tomorrow?_\n\n-_**Haiku To Use When Rejecting Current Plans In Favor Of Tomorrow\u0027s**_, _by Mannie Singh_",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "519360741849956389",
+      "type": "Default",
+      "timestamp": "2018-12-04T03:54:10.113+00:00",
+      "timestampEdited": "2018-12-04T03:54:27.668+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*That is incorrect\nThe middle line is seven\nyou only had three*",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "519361666018967583",
+      "type": "Default",
+      "timestamp": "2018-12-04T03:57:50.452+00:00",
+      "timestampEdited": "2018-12-04T04:01:36.699+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "_Five-Three-Five is too\nA valid\nForm burger haiku_\n\n-**_Haiku to Use when Teaching Somebody that Haiku Comes in a Variety of Syllable Counts_**, _by Mannie Singh_",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "519362179913482271",
+      "type": "Default",
+      "timestamp": "2018-12-04T03:59:52.974+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*I know it varies a bit\nbut the middle is always longest\nat least that\u0027s what I\u0027m told*",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "519363051548311552",
+      "type": "Default",
+      "timestamp": "2018-12-04T04:03:20.788+00:00",
+      "timestampEdited": "2018-12-04T04:05:25.552+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "There. I fixed my last haiku. It\u0027s an English form developed by one John E. Carley in 2001 called \u0022lune.\u0022",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "519363088718495762",
+      "type": "Default",
+      "timestamp": "2018-12-04T04:03:29.65+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "So it technically wasn\u0027t a \u0022Nippon haiku.\u0022",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "519363375927525387",
+      "type": "Default",
+      "timestamp": "2018-12-04T04:04:38.126+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*I blame public schools\nfor pushing false rhetoric\nrefrigerator*",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "519550513876959234",
+      "type": "Default",
+      "timestamp": "2018-12-04T16:28:15.29+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "_yeoui is my favorite hentoy_\n\n_**Another One For the Books, Vol. I**_, _by Mannie Singh_",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "523836537658408960",
+      "type": "Default",
+      "timestamp": "2018-12-16T12:19:22.99+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":GWjianWut:",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "523837071069282355",
+      "type": "Default",
+      "timestamp": "2018-12-16T12:21:30.165+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=tXHRN3nMarg a poem with no words",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "7 Forever Turbo Heat Dance",
+          "url": "https://www.youtube.com/watch?v=tXHRN3nMarg",
+          "timestamp": null,
+          "description": "",
+          "color": "#FF0000",
+          "author": {
+            "name": "bananadude796",
+            "url": "https://www.youtube.com/user/bananadude796"
+          },
+          "thumbnail": {
+            "url": "https://i.ytimg.com/vi/tXHRN3nMarg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "524039209921544203",
+      "type": "Default",
+      "timestamp": "2018-12-17T01:44:43.823+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [
+        {
+          "id": "524039209921544202",
+          "url": "https://cdn.discordapp.com/attachments/374969230770044949/524039209921544202/gnome4.png",
+          "fileName": "gnome4.png",
+          "fileSizeBytes": 43898
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "524039234395439116",
+      "type": "Default",
+      "timestamp": "2018-12-17T01:44:49.658+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [
+        {
+          "id": "524039234395439114",
+          "url": "https://cdn.discordapp.com/attachments/374969230770044949/524039234395439114/gnome3.png",
+          "fileName": "gnome3.png",
+          "fileSizeBytes": 63721
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "524039256939954188",
+      "type": "Default",
+      "timestamp": "2018-12-17T01:44:55.033+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [
+        {
+          "id": "524039256939954186",
+          "url": "https://cdn.discordapp.com/attachments/374969230770044949/524039256939954186/gnome2.png",
+          "fileName": "gnome2.png",
+          "fileSizeBytes": 194631
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "524039282944507924",
+      "type": "Default",
+      "timestamp": "2018-12-17T01:45:01.233+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [
+        {
+          "id": "524039282944507920",
+          "url": "https://cdn.discordapp.com/attachments/374969230770044949/524039282944507920/gnome1.png",
+          "fileName": "gnome1.png",
+          "fileSizeBytes": 51253
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "524039447059234826",
+      "type": "Default",
+      "timestamp": "2018-12-17T01:45:40.361+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the notifications showing the filenames spoiled the surprise",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "524061693001859072",
+      "type": "Default",
+      "timestamp": "2018-12-17T03:14:04.207+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDE41",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "524061718784114716",
+      "type": "Default",
+      "timestamp": "2018-12-17T03:14:10.354+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "SAD",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "524287457601257483",
+      "type": "Default",
+      "timestamp": "2018-12-17T18:11:10.682+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Uwu",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "524325655119134770",
+      "type": "Default",
+      "timestamp": "2018-12-17T20:42:57.68+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@timlives come here",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "139882026965663744",
+          "name": "timlives",
+          "discriminator": 7045,
+          "nickname": "timlives",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "524358568229732363",
+      "type": "Default",
+      "timestamp": "2018-12-17T22:53:44.777+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://i.kinja-img.com/gawker-media/image/upload/s--rkv7sHqD--/c_scale,f_auto,fl_progressive,q_80,w_800/qwfonotcwebpgjjgyxjt.png this sums up things well\ndoes it count as poetry?",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/s--rkv7sHqD--/c_scale,f_auto,fl_progressive,q_80,w_800/qwfonotcwebpgjjgyxjt.png",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://i.kinja-img.com/gawker-media/image/upload/s--rkv7sHqD--/c_scale,f_auto,fl_progressive,q_80,w_800/qwfonotcwebpgjjgyxjt.png",
+            "width": 800,
+            "height": 450
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "604571011807051776",
+      "type": "Default",
+      "timestamp": "2019-07-27T07:09:21.601+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\u0022Curiosity was the straw that killed the camels cat so dont count ur chickens until u put all ur eggs in one basket because a bird in the hand is worth two with one stone and a penny saved is worth 1000 words but early to bed early to rise catches the worm until the fat lady sings\u0022",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "604728207312290028",
+      "type": "Default",
+      "timestamp": "2019-07-27T17:33:59.93+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "_AND I *~looked~* to the moon and SAID_",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "604728246352740352",
+      "type": "Default",
+      "timestamp": "2019-07-27T17:34:09.238+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\u0022**AGHHHHHH**\u0022",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "604728286647549972",
+      "type": "Default",
+      "timestamp": "2019-07-27T17:34:18.845+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\u0022**GOODNIGHT MOON**\u0022",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "605457515043487745",
+      "type": "Default",
+      "timestamp": "2019-07-29T17:52:00.443+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@timlives",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "139882026965663744",
+          "name": "timlives",
+          "discriminator": 7045,
+          "nickname": "timlives",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "605457518604320808",
+      "type": "Default",
+      "timestamp": "2019-07-29T17:52:01.292+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "dude",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "605457545406054449",
+      "type": "Default",
+      "timestamp": "2019-07-29T17:52:07.682+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\u0022the balls of labyton\u0022",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "605468069544067072",
+      "type": "Default",
+      "timestamp": "2019-07-29T18:33:56.832+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@mannie.exe why would you say that at me",
+      "author": {
+        "id": "139882026965663744",
+        "name": "timlives",
+        "discriminator": "7045",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/139882026965663744/6af5625f153356a56eb881f38e53169d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "127228258847686657",
+          "name": "mannie.exe",
+          "discriminator": 9999,
+          "nickname": "mannie.exe",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "610159513374425128",
+      "type": "Default",
+      "timestamp": "2019-08-11T17:16:04.204+00:00",
+      "timestampEdited": "2019-08-11T18:09:34.005+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Think about that ancient buddhist proverb: After the sacrificing to the almighty Cthulhu, comes the suspicion.",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "610174807329472552",
+      "type": "Default",
+      "timestamp": "2019-08-11T18:16:50.567+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://baka-dot-exe.tumblr.com/post/186934278860/newtypezaku-mage-legos",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "(\u22290_0)\u2283\u2501\u2606 \u00B0.* \u00B0.*",
+          "url": "https://baka-dot-exe.tumblr.com/post/186934278860/newtypezaku-mage-legos",
+          "timestamp": null,
+          "description": "newtypezaku: \u201CMage Legos \u201D",
+          "color": "#35465D",
+          "author": {
+            "name": "(\u22290_0)\u2283\u2501\u2606 \u00B0.* \u00B0.*",
+            "url": "https://baka-dot-exe.tumblr.com/"
+          },
+          "thumbnail": {
+            "url": "https://66.media.tumblr.com/0988545bc92cdbee108d4ec26b7d805d/tumblr_pudnbdILyM1s9mwh8o1_1280.jpg",
+            "width": 848,
+            "height": 480
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "625769607852064779",
+      "type": "Default",
+      "timestamp": "2019-09-23T19:05:00.749+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Demi Tarot",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [
+        {
+          "id": "625769605918359563",
+          "url": "https://cdn.discordapp.com/attachments/374969230770044949/625769605918359563/image0.jpg",
+          "fileName": "image0.jpg",
+          "fileSizeBytes": 2116305
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "146003873935392768",
+          "name": "Demi Tarot",
+          "discriminator": 2445,
+          "nickname": "Demi Tarot",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "625769668610752512",
+      "type": "Default",
+      "timestamp": "2019-09-23T19:05:15.235+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "30 minute break!",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "625771995534983168",
+      "type": "Default",
+      "timestamp": "2019-09-23T19:14:30.017+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "not baaaaaaad",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "625780661113978891",
+      "type": "Default",
+      "timestamp": "2019-09-23T19:48:56.052+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDE2D\uD83D\uDE2D",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "629513080484659210",
+      "type": "Default",
+      "timestamp": "2019-10-04T03:00:14.175+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [
+        {
+          "id": "629513076177240084",
+          "url": "https://cdn.discordapp.com/attachments/374969230770044949/629513076177240084/bellcity13_slow.mp3",
+          "fileName": "bellcity13_slow.mp3",
+          "fileSizeBytes": 6590400
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "629899558540804106",
+      "type": "Default",
+      "timestamp": "2019-10-05T04:35:57.724+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [
+        {
+          "id": "629899558075367425",
+          "url": "https://cdn.discordapp.com/attachments/374969230770044949/629899558075367425/image0.jpg",
+          "fileName": "image0.jpg",
+          "fileSizeBytes": 64019
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "631590160974217245",
+      "type": "Default",
+      "timestamp": "2019-10-09T20:33:48.754+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I carbed my first pampkin",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [
+        {
+          "id": "631590159560998933",
+          "url": "https://cdn.discordapp.com/attachments/374969230770044949/631590159560998933/image1.jpg",
+          "fileName": "image1.jpg",
+          "fileSizeBytes": 2359051
+        },
+        {
+          "id": "631590160517169162",
+          "url": "https://cdn.discordapp.com/attachments/374969230770044949/631590160517169162/image0.jpg",
+          "fileName": "image0.jpg",
+          "fileSizeBytes": 2570220
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "631590229731442719",
+      "type": "Default",
+      "timestamp": "2019-10-09T20:34:05.147+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "slugs made it home/food so",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "631590258340790288",
+      "type": "Default",
+      "timestamp": "2019-10-09T20:34:11.968+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [
+        {
+          "id": "631590257711775764",
+          "url": "https://cdn.discordapp.com/attachments/374969230770044949/631590257711775764/image0.jpg",
+          "fileName": "image0.jpg",
+          "fileSizeBytes": 2248162
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "631590298379747349",
+      "type": "Default",
+      "timestamp": "2019-10-09T20:34:21.514+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "pampkin 2",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "631591682021916682",
+      "type": "Default",
+      "timestamp": "2019-10-09T20:39:51.4+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I\u2019m noticing a trend of unfinished things I post here and honestly I just sadden myself",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "631591702842572810",
+      "type": "Default",
+      "timestamp": "2019-10-09T20:39:56.364+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@timlives",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "139882026965663744",
+          "name": "timlives",
+          "discriminator": 7045,
+          "nickname": "timlives",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "631591925018787892",
+      "type": "Default",
+      "timestamp": "2019-10-09T20:40:49.335+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "dude",
+      "author": {
+        "id": "139882026965663744",
+        "name": "timlives",
+        "discriminator": "7045",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/139882026965663744/6af5625f153356a56eb881f38e53169d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "631591949991804948",
+      "type": "Default",
+      "timestamp": "2019-10-09T20:40:55.289+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "do it",
+      "author": {
+        "id": "139882026965663744",
+        "name": "timlives",
+        "discriminator": "7045",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/139882026965663744/6af5625f153356a56eb881f38e53169d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "631592016115138580",
+      "type": "Default",
+      "timestamp": "2019-10-09T20:41:11.054+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "you gotta",
+      "author": {
+        "id": "139882026965663744",
+        "name": "timlives",
+        "discriminator": "7045",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/139882026965663744/6af5625f153356a56eb881f38e53169d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "631592985154551814",
+      "type": "Default",
+      "timestamp": "2019-10-09T20:45:02.091+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I wanna WATERCOLOR IT",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "631593000547516416",
+      "type": "Default",
+      "timestamp": "2019-10-09T20:45:05.761+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Aahhh",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "631593029890736128",
+      "type": "Default",
+      "timestamp": "2019-10-09T20:45:12.757+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "But first I sketch I guess",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "631597628534030336",
+      "type": "Default",
+      "timestamp": "2019-10-09T21:03:29.159+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "AHHH",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "631597675283742721",
+      "type": "Default",
+      "timestamp": "2019-10-09T21:03:40.305+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "You finish the first 80%",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "631597717667315760",
+      "type": "Default",
+      "timestamp": "2019-10-09T21:03:50.41+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Then you finish the _next_ 80%",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "631597750110126100",
+      "type": "Default",
+      "timestamp": "2019-10-09T21:03:58.145+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I LIKE IT",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "633141795462840351",
+      "type": "Default",
+      "timestamp": "2019-10-14T03:19:27.244+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "look \uD83D\uDC40",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [
+        {
+          "id": "633141795038953502",
+          "url": "https://cdn.discordapp.com/attachments/374969230770044949/633141795038953502/IMG_0751.JPG",
+          "fileName": "IMG_0751.JPG",
+          "fileSizeBytes": 1875182
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "633155806975754252",
+      "type": "Default",
+      "timestamp": "2019-10-14T04:15:07.849+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "sp00ky",
+      "author": {
+        "id": "166711047707688960",
+        "name": "Koala",
+        "discriminator": "4746",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166711047707688960/526e498cc6b84b7ed16503a49f65bb27.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "633468068038836246",
+      "type": "Default",
+      "timestamp": "2019-10-15T00:55:56.688+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [
+        {
+          "id": "633468067585982515",
+          "url": "https://cdn.discordapp.com/attachments/374969230770044949/633468067585982515/image0.jpg",
+          "fileName": "image0.jpg",
+          "fileSizeBytes": 1798218
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "633468183579459585",
+      "type": "Default",
+      "timestamp": "2019-10-15T00:56:24.235+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I still can\u2019t quite figure out the values yet.",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "633468257419919380",
+      "type": "Default",
+      "timestamp": "2019-10-15T00:56:41.84+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Definitely need to refine the eye sockets and bring some light inside.",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "633468446214193172",
+      "type": "Default",
+      "timestamp": "2019-10-15T00:57:26.852+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@timlives the sketch is technically done now fucc",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "139882026965663744",
+          "name": "timlives",
+          "discriminator": 7045,
+          "nickname": "timlives",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "633468460495667219",
+      "type": "Default",
+      "timestamp": "2019-10-15T00:57:30.257+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "he",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "633468518557286410",
+      "type": "Default",
+      "timestamp": "2019-10-15T00:57:44.1+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "cool pic buddy",
+      "author": {
+        "id": "139882026965663744",
+        "name": "timlives",
+        "discriminator": "7045",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/139882026965663744/6af5625f153356a56eb881f38e53169d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "633468600123916299",
+      "type": "Default",
+      "timestamp": "2019-10-15T00:58:03.547+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks fucker",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "633468690662162443",
+      "type": "Default",
+      "timestamp": "2019-10-15T00:58:25.133+00:00",
+      "timestampEdited": "2019-10-15T01:19:56.11+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Have a good day",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "633471707348205590",
+      "type": "Default",
+      "timestamp": "2019-10-15T01:10:24.367+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wow rude",
+      "author": {
+        "id": "139882026965663744",
+        "name": "timlives",
+        "discriminator": "7045",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/139882026965663744/6af5625f153356a56eb881f38e53169d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "633474116405559296",
+      "type": "Default",
+      "timestamp": "2019-10-15T01:19:58.731+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "where",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "633474141764190218",
+      "type": "Default",
+      "timestamp": "2019-10-15T01:20:04.777+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oh sorry",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "633474152690352148",
+      "type": "Default",
+      "timestamp": "2019-10-15T01:20:07.382+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fixed",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "634541963802312723",
+      "type": "Default",
+      "timestamp": "2019-10-18T00:03:13.39+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Demi Tarot",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "146003873935392768",
+          "name": "Demi Tarot",
+          "discriminator": 2445,
+          "nickname": "Demi Tarot",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "634541997369065493",
+      "type": "Default",
+      "timestamp": "2019-10-18T00:03:21.393+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "quoi",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "634542014066720768",
+      "type": "Default",
+      "timestamp": "2019-10-18T00:03:25.374+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "or",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "634542016017203211",
+      "type": "Default",
+      "timestamp": "2019-10-18T00:03:25.839+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [
+        {
+          "id": "634542015358435368",
+          "url": "https://cdn.discordapp.com/attachments/374969230770044949/634542015358435368/image0.jpg",
+          "fileName": "image0.jpg",
+          "fileSizeBytes": 1798218
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "634542053266685962",
+      "type": "Default",
+      "timestamp": "2019-10-18T00:03:34.72+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "B",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [
+        {
+          "id": "634542052478287882",
+          "url": "https://cdn.discordapp.com/attachments/374969230770044949/634542052478287882/image0.jpg",
+          "fileName": "image0.jpg",
+          "fileSizeBytes": 2699111
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "634542070219931678",
+      "type": "Default",
+      "timestamp": "2019-10-18T00:03:38.762+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "C",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "634542111999524876",
+      "type": "Default",
+      "timestamp": "2019-10-18T00:03:48.723+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Typical goo talk",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "634542146782756913",
+      "type": "Default",
+      "timestamp": "2019-10-18T00:03:57.016+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Butyoure right",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "634542158799700001",
+      "type": "Default",
+      "timestamp": "2019-10-18T00:03:59.881+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I gonna do it",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "634542171441332249",
+      "type": "Default",
+      "timestamp": "2019-10-18T00:04:02.895+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Another one",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "634542215007567882",
+      "type": "Default",
+      "timestamp": "2019-10-18T00:04:13.282+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Also goon*",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "634542271454511104",
+      "type": "Default",
+      "timestamp": "2019-10-18T00:04:26.74+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A, I guess, since Jerk o Lanterns usually have light from the inside so the teefy bits would be less dark",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "634542423707746305",
+      "type": "Default",
+      "timestamp": "2019-10-18T00:05:03.04+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Okay but imagine the circle that\u2019s peeking in the corner is the light source sorta",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "634542525885186048",
+      "type": "Default",
+      "timestamp": "2019-10-18T00:05:27.401+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ya see?",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "634542559787745290",
+      "type": "Default",
+      "timestamp": "2019-10-18T00:05:35.484+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It\u2019s unlitteroni",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "634542621699604511",
+      "type": "Default",
+      "timestamp": "2019-10-18T00:05:50.245+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "More like jack o not",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "634542677207285760",
+      "type": "Default",
+      "timestamp": "2019-10-18T00:06:03.479+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "sometimes there can be two light sources ( \u0027^\u0027)v",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "634542747432517653",
+      "type": "Default",
+      "timestamp": "2019-10-18T00:06:20.222+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yeah true",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "634542888361132053",
+      "type": "Default",
+      "timestamp": "2019-10-18T00:06:53.822+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This particular version I wanna recreate in water color, and it\u2019s unlit except externally",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "634545748918272030",
+      "type": "Default",
+      "timestamp": "2019-10-18T00:18:15.832+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@timlives https://youtu.be/ojCikI9npJQ",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Spinners - I\u0027ll Be Around",
+          "url": "https://youtu.be/ojCikI9npJQ",
+          "timestamp": null,
+          "description": "Spinners \u00A91973 Atlantic",
+          "color": "#FF0000",
+          "author": {
+            "name": "BakNDaDay",
+            "url": "https://www.youtube.com/user/BakNDaDay"
+          },
+          "thumbnail": {
+            "url": "https://i.ytimg.com/vi/ojCikI9npJQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "139882026965663744",
+          "name": "timlives",
+          "discriminator": 7045,
+          "nickname": "timlives",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "634545758183358475",
+      "type": "Default",
+      "timestamp": "2019-10-18T00:18:18.041+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "catch a groove",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "634545761261977610",
+      "type": "Default",
+      "timestamp": "2019-10-18T00:18:18.775+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "man",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "634546047800311839",
+      "type": "Default",
+      "timestamp": "2019-10-18T00:19:27.091+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@a ghost with purpose as well ^",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "137355811113533440",
+          "name": "a ghost with purpose",
+          "discriminator": 666,
+          "nickname": "a burst of potential",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "637731573554348033",
+      "type": "Default",
+      "timestamp": "2019-10-26T19:17:35.615+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This is for Andrew\u0027s game. Thoughts? @timlives @Demi Tarot",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [
+        {
+          "id": "637731572287799326",
+          "url": "https://cdn.discordapp.com/attachments/374969230770044949/637731572287799326/Andrew_6.mp3",
+          "fileName": "Andrew_6.mp3",
+          "fileSizeBytes": 2816640
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "146003873935392768",
+          "name": "Demi Tarot",
+          "discriminator": 2445,
+          "nickname": "Demi Tarot",
+          "isBot": false
+        },
+        {
+          "id": "139882026965663744",
+          "name": "timlives",
+          "discriminator": 7045,
+          "nickname": "timlives",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "637813957956075531",
+      "type": "Default",
+      "timestamp": "2019-10-27T00:44:57.587+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "what situation is it intended for?",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "637814127481454601",
+      "type": "Default",
+      "timestamp": "2019-10-27T00:45:38.005+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it ain\u0027t bad, but context is important",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "637814182670106625",
+      "type": "Default",
+      "timestamp": "2019-10-27T00:45:51.163+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it feels pretty intro texty",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "637817181308059678",
+      "type": "Default",
+      "timestamp": "2019-10-27T00:57:46.094+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Correct",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "637817269111619585",
+      "type": "Default",
+      "timestamp": "2019-10-27T00:58:07.028+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Andrew needed a title theme that can be adopted into an overworld theme when slooowed down",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "637821114747191358",
+      "type": "Default",
+      "timestamp": "2019-10-27T01:13:23.899+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDC4F",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "637900348119449600",
+      "type": "Default",
+      "timestamp": "2019-10-27T06:28:14.607+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Demi Tarot listen to this. I wanna layer in bits of this with what you\u0027ve already heard.",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [
+        {
+          "id": "637900347389771787",
+          "url": "https://cdn.discordapp.com/attachments/374969230770044949/637900347389771787/Blooming_Vines.mp3",
+          "fileName": "Blooming_Vines.mp3",
+          "fileSizeBytes": 954617
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "146003873935392768",
+          "name": "Demi Tarot",
+          "discriminator": 2445,
+          "nickname": "Demi Tarot",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "637900504508137483",
+      "type": "Default",
+      "timestamp": "2019-10-27T06:28:51.893+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Volume warning-ish. the mezzo-forte is stronk.",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "637900609303085056",
+      "type": "Default",
+      "timestamp": "2019-10-27T06:29:16.878+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "a bit, but that\u0027s a pretty jiving melody",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "637900660058357761",
+      "type": "Default",
+      "timestamp": "2019-10-27T06:29:28.979+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":DDD",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "637913315766698014",
+      "type": "Default",
+      "timestamp": "2019-10-27T07:19:46.335+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "what this small piece looks like: @a ghost with purpose",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [
+        {
+          "id": "637913315196010497",
+          "url": "https://cdn.discordapp.com/attachments/374969230770044949/637913315196010497/Blooming_Vines-1.png",
+          "fileName": "Blooming_Vines-1.png",
+          "fileSizeBytes": 377171
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "137355811113533440",
+          "name": "a ghost with purpose",
+          "discriminator": 666,
+          "nickname": "a burst of potential",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "637913929485385748",
+      "type": "Default",
+      "timestamp": "2019-10-27T07:22:12.657+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":POGGERS:",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "637920423262027777",
+      "type": "Default",
+      "timestamp": "2019-10-27T07:48:00.894+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://i.gyazo.com/a11cf9e6bf8f8a88cc2ce4a01fc23115.png Burgundy fits as a Fasolati name, so have a Bun Burg",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://i.gyazo.com/a11cf9e6bf8f8a88cc2ce4a01fc23115.png",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://i.gyazo.com/a11cf9e6bf8f8a88cc2ce4a01fc23115.png",
+            "width": 554,
+            "height": 886
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "637921787966914573",
+      "type": "Default",
+      "timestamp": "2019-10-27T07:53:26.265+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TWO SWORDS",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "637921822905729034",
+      "type": "Default",
+      "timestamp": "2019-10-27T07:53:34.595+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "daggers",
+      "author": {
+        "id": "146003873935392768",
+        "name": "Demi Tarot",
+        "discriminator": "2445",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/146003873935392768/1f3363be46fbe8cf3eed792e4aed357a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "637923389490855946",
+      "type": "Default",
+      "timestamp": "2019-10-27T07:59:48.098+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TWWOOO",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "637923421040279572",
+      "type": "Default",
+      "timestamp": "2019-10-27T07:59:55.62+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "BIG KNIVES",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "637956404744814592",
+      "type": "Default",
+      "timestamp": "2019-10-27T10:10:59.548+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "very cute",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "637956458754867222",
+      "type": "Default",
+      "timestamp": "2019-10-27T10:11:12.425+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i like the tiddy",
+      "author": {
+        "id": "137355811113533440",
+        "name": "a ghost with purpose",
+        "discriminator": "0666",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137355811113533440/0db4291458dede39d4109aeb104efdc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "638056927674236928",
+      "type": "Default",
+      "timestamp": "2019-10-27T16:50:26.082+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@mannie.exe That song is nice I reminds me of chrono trigger",
+      "author": {
+        "id": "139882026965663744",
+        "name": "timlives",
+        "discriminator": "7045",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/139882026965663744/6af5625f153356a56eb881f38e53169d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "127228258847686657",
+          "name": "mannie.exe",
+          "discriminator": 9999,
+          "nickname": "mannie.exe",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "638902253725679616",
+      "type": "Default",
+      "timestamp": "2019-10-30T00:49:27.518+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [
+        {
+          "id": "638902252873973800",
+          "url": "https://cdn.discordapp.com/attachments/374969230770044949/638902252873973800/Andrew_7_-_First_Mix_w_Ambience_No_Percs_No_Bass.mp3",
+          "fileName": "Andrew_7_-_First_Mix_w_Ambience_No_Percs_No_Bass.mp3",
+          "fileSizeBytes": 3420480
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "638917978426966036",
+      "type": "Default",
+      "timestamp": "2019-10-30T01:51:56.579+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [
+        {
+          "id": "638917977529516032",
+          "url": "https://cdn.discordapp.com/attachments/374969230770044949/638917977529516032/Andrew_9_-_Bass_Re-Sync.mp3",
+          "fileName": "Andrew_9_-_Bass_Re-Sync.mp3",
+          "fileSizeBytes": 3420480
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "641788212385153035",
+      "type": "Default",
+      "timestamp": "2019-11-06T23:57:13.681+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [
+        {
+          "id": "641788212385153034",
+          "url": "https://cdn.discordapp.com/attachments/374969230770044949/641788212385153034/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 17923
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "642568275645038601",
+      "type": "Default",
+      "timestamp": "2019-11-09T03:36:55.255+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://vimeo.com/190063150",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "651588781832667156",
+      "type": "Default",
+      "timestamp": "2019-12-04T01:01:11.523+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@a ghost with purpose",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [
+        {
+          "id": "651588780901400578",
+          "url": "https://cdn.discordapp.com/attachments/374969230770044949/651588780901400578/birthday_beat.mp3",
+          "fileName": "birthday_beat.mp3",
+          "fileSizeBytes": 3773760
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "137355811113533440",
+          "name": "a ghost with purpose",
+          "discriminator": 666,
+          "nickname": "a burst of potential",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "651588805303992351",
+      "type": "Default",
+      "timestamp": "2019-12-04T01:01:17.119+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "do you wanna freestyle yet?",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "776713981594304554",
+      "type": "Default",
+      "timestamp": "2020-11-13T07:44:03.86+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [
+        {
+          "id": "776713981259153408",
+          "url": "https://cdn.discordapp.com/attachments/374969230770044949/776713981259153408/GROW.mp3",
+          "fileName": "GROW.mp3",
+          "fileSizeBytes": 7788480
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782144251512225804",
+      "type": "Default",
+      "timestamp": "2020-11-28T07:22:01.098+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "LET GO OF THE CYCLE",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782144263277641728",
+      "type": "Default",
+      "timestamp": "2020-11-28T07:22:03.903+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "LET GO OF THE VOID",
+      "author": {
+        "id": "127228258847686657",
+        "name": "mannie.exe",
+        "discriminator": "9999",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127228258847686657/33ac5bc7d63a1ea36b4cba929657db11.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 166
+}
