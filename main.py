@@ -82,7 +82,7 @@ model = build_model(
 
 # Train model
 # -----------------------------------------------
-EPOCHS = 5
+EPOCHS = 30
 
 checkpoint_dir = "./training_checkpoints"
 checkpoint_prefix = os.path.join(checkpoint_dir, "ckpt_{epoch}")
