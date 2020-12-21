@@ -9,7 +9,7 @@ import datetime
 # Load and vectorize dataset
 # -----------------------------------------------
 path_to_file = "./training_data/messages.txt"
-text = open(path_to_file, "rb").read().decode(encoding="utf-8")
+text = open(path_to_file, "r", encoding="utf-8").read()
 vocab = sorted(set(text))
 
 char2idx = {u: i for i, u in enumerate(vocab)}
@@ -82,7 +82,7 @@ model = build_model(
 
 # Train model
 # -----------------------------------------------
-EPOCHS = 30
+EPOCHS = 5
 
 checkpoint_dir = "./training_checkpoints"
 checkpoint_prefix = os.path.join(checkpoint_dir, "ckpt_{epoch}")
@@ -149,7 +149,6 @@ for epoch in range(EPOCHS):
     train_loss.reset_states()
 
 model.save_weights(checkpoint_prefix.format(epoch=EPOCHS))
-
 # -----------------------------------------------
 
 
