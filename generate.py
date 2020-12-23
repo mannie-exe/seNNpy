@@ -20,11 +20,15 @@ def gen_text(model, start_str, gen_count=1000, temperature=1.0):
     return start_str + "".join(text_generated)
 
 
-seNNpy = model.new(data.vocab_size)
-try:
-    seNNpy.load_weights(tf.train.latest_checkpoint(data.CHECKPOINT_DIR))
-except:
-    sysexit("Failed to load model checkpoints. Have you trained 💪 yet, seNNpy?")
-seNNpy.build(tf.TensorShape([1, None]))
-seNNpy_output = gen_text(seNNpy, "@timlives ")
-print(seNNpy_output)
+def init():
+    seNNpy = model.new(data.vocab_size)
+    try:
+        seNNpy.load_weights(tf.train.latest_checkpoint(data.CHECKPOINT_DIR))
+    except:
+        sysexit("Failed to load model checkpoints. Have you trained 💪 yet, seNNpy?")
+    seNNpy.build(tf.TensorShape([1, None]))
+    return seNNpy
+
+
+seNNpy = init()
+print(gen_text(seNNpy, "Hey Andrew, "))
