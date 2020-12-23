@@ -18,6 +18,8 @@ URL_PATTERN = re.compile(
     "((https?):((//)|(\\\\))+([\w\d:#@%/;$()~_?\+-=\\\.&](#!)?)*)", flags=re.I
 )
 
+BOT_TRIGGER_PATTERN = re.compile("^(y|m)!(trigger)?", flags=re.I)
+
 
 def check_file(path):
     return os.path.isfile(os.path.abspath(path))
@@ -25,9 +27,11 @@ def check_file(path):
 
 def clean_message(accum, message):
     if not message["author"]["isBot"]:
-        message["content"] = re.sub(URL_PATTERN, "", message["content"]).strip()
-        if message["content"]:
-            accum.append(message["content"])
+        message = message["content"]
+        message = re.sub(URL_PATTERN, "", message).strip()
+        message = "" if re.match(BOT_TRIGGER_PATTERN, message) else message
+        if message:
+            accum.append(message)
     return accum
 
 
