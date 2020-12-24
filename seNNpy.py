@@ -19,7 +19,9 @@ if __name__ == "__main__":
     args = parse_arguments()
 
     if args.train:
-        import training
+        import modules.training as training
 
         training.run(args.train)
-    import generate
+    import modules.generate as generate
+
+    print(generate.text("Hey Andrew, "))

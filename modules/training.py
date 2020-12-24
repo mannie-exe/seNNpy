@@ -2,8 +2,8 @@ from os.path import abspath, join as joinpath
 import time
 import datetime
 import tensorflow as tf
-import data
-import model
+import modules.data as data
+import modules.model as model
 
 
 def create_training_chunk(chunk):
