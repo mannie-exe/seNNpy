@@ -17,6 +17,12 @@ def parse_arguments():
         action="store",
         help="if >1, training for that many epochs before continuing",
     )
+    parser.add_argument(
+        "--dry",
+        action="store_true",
+        dest="dry",
+        help="if enabled, seNNpy will simply generate text and exit",
+    )
     return parser.parse_args()
 
 
@@ -26,9 +32,15 @@ async def init_bot(bot_token):
     client = discord.Client()
 
     @client.event
+    async def on_ready():
+        print("seNNpy is online 😎 (as: {0.user})".format(client))
+
+    @client.event
     async def on_message(message):
         if message.author == client.user:
             return
+
+        print(message.author.split("#"))
 
         if re.match(TRIGGER_PATTERN, message.content):
             response = generate.text("hey {}, ".format(message.author), count=512)
@@ -41,7 +53,6 @@ async def init_bot(bot_token):
         await client.connect()
     except:
         print("Wellp, that's not good. Goodbye! x.x")
-    print("seNNpy is online 😎")
 
 
 if __name__ == "__main__":
@@ -60,7 +71,9 @@ if __name__ == "__main__":
 
         training.run(args.train)
 
-    # this procs TensorFlow, making it quicker next few times
-    generate.text("dummy")
+    if args.dry:
+        sysexit(generate.text("start_string "))
 
+    # this initializes TensorFlow, making next calls quicker
+    generate.text("d")
     asyncio.run(init_bot(TOKEN))
