@@ -31,8 +31,8 @@ async def init_bot(bot_token):
             return
 
         if re.match(TRIGGER_PATTERN, message.content):
-            # response = generate.text("hey {}, ".format(message.author), count=512)
-            # response = response.split("\n")
+            response = generate.text("hey {}, ".format(message.author), count=512)
+            response = response.split("\n")
             # await message.channel.send(response[0])
 
     print("Connecting seNNpy with token: {}".format(bot_token))
