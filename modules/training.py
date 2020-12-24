@@ -57,6 +57,7 @@ def run(epochs, seq_size=100, batch_size=64, buffer_size=1000):
         seNNpy.reset_states()
 
         start = time.time()
+        loss = 0
         print("Epoch: {} / {}".format(epoch + 1, epochs))
         for (batch_size, (input_text, target_text)) in enumerate(dataset):
             loss = train_step(
