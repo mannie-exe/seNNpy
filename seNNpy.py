@@ -45,6 +45,12 @@ async def init_bot(bot_token):
             response = response.split("\n")
             await message.channel.send(response[0])
 
+        if message.content.startswith("s!trigger"):
+            await message.channel.trigger_typing()
+            response = generate.text("umm, ".format(message.author.name), count=512)
+            response = response.split("\n")
+            await message.channel.send(response[1])
+
     print("Connecting seNNpy with token: {}".format(bot_token))
     try:
         await client.login(bot_token)

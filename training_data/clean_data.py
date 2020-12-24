@@ -18,7 +18,9 @@ URL_PATTERN = re.compile(
     "((https?):((//)|(\\\\))+([\w\d:#@%/;$()~_?\+-=\\\.&](#!)?)*)", flags=re.I
 )
 
-BOT_TRIGGER_PATTERN = re.compile("^(y|m)!(trigger)?", flags=re.I)
+BOT_TRIGGER_PATTERN = re.compile(
+    "(^(y|m)!(trigger)?|^hey senna((-| )?chan)?)", flags=re.I
+)
 
 
 def check_file(path):
