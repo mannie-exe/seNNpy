@@ -1,9 +1,13 @@
 from sys import exit as sysexit
 from os.path import abspath
+from random import randrange
 import re
 import argparse
 import asyncio
 import discord
+
+
+crit = lambda n: randrange(0, n) == n - 1
 
 
 def parse_arguments():
@@ -45,7 +49,7 @@ async def init_bot(bot_token):
             response = response.split("\n")
             await message.channel.send(response[0])
 
-        if message.content.startswith("s!trigger"):
+        if message.content.startswith("s!trigger") or (crit(100) and crit(100)):
             await message.channel.trigger_typing()
             response = generate.text("umm, ".format(message.author.name), count=512)
             response = response.split("\n")
