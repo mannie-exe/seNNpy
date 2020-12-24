@@ -17,13 +17,13 @@ def init():
 seNNpy = init()
 
 
-def text(start_str, gen_count=1000, temperature=1.0, model=seNNpy):
+def text(start_str, count=1000, temperature=1.0, model=seNNpy):
     model.reset_states()
 
     input_eval = [data.char2idx[c] for c in start_str]
     input_eval = tf.expand_dims(input_eval, 0)
     text_generated = []
-    for i in range(gen_count):
+    for i in range(count):
         predictions = model(input_eval)
         predictions = tf.squeeze(predictions, 0)
         predictions = predictions / temperature
