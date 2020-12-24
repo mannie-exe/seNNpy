@@ -19,7 +19,7 @@ URL_PATTERN = re.compile(
 )
 
 BOT_TRIGGER_PATTERN = re.compile(
-    "(^(y|m)!(trigger)?|^hey senna((-| )?chan)?)", flags=re.I
+    "(^(y|m|s)!(trigger)?|^hey senna((-| )?chan)?)", flags=re.I
 )
 
 
