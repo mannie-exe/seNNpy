@@ -4,7 +4,6 @@ import re
 import argparse
 import asyncio
 import discord
-import modules.generate as generate
 
 
 def parse_arguments():
@@ -40,7 +39,7 @@ async def init_bot(bot_token):
         if message.author == client.user:
             return
 
-        print(message.author.split("#"))
+        print(str(message.author.split)("#"))
 
         if re.match(TRIGGER_PATTERN, message.content):
             response = generate.text("hey {}, ".format(message.author), count=512)
@@ -70,6 +69,8 @@ if __name__ == "__main__":
         import modules.training as training
 
         training.run(args.train)
+
+    import modules.generate as generate
 
     if args.dry:
         sysexit(generate.text("start_string "))
