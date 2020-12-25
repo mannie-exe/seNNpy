@@ -7,7 +7,7 @@ import asyncio
 import discord
 
 
-crit = lambda n: randrange(0, n) == n - 1
+crit = lambda n: randrange(1, n + 1) == n
 
 
 def parse_arguments():
