@@ -11,7 +11,7 @@ def create_training_chunk(chunk):
 
 
 @tf.function
-def train_step(model, model_input, model_target, optimizer, loss_train_func):
+def train_step(model, model_input, model_target, optimizer):
     with tf.GradientTape() as tape:
         predictions = model(model_input)
         loss = tf.reduce_mean(
@@ -19,10 +19,11 @@ def train_step(model, model_input, model_target, optimizer, loss_train_func):
                 model_target, predictions, from_logits=True
             )
         )
+
+    # Evolve gradient and apply to model
     grads = tape.gradient(loss, model.trainable_variables)
     optimizer.apply_gradients(zip(grads, model.trainable_variables))
 
-    loss_train_func(loss)
     return loss
 
 
@@ -32,7 +33,7 @@ def run(epochs, seq_size=100, batch_size=64, buffer_size=1000):
     train_log_dir = abspath("./logs/gradient_tape/" + current_time + "/train")
     train_summary_writer = tf.summary.create_file_writer(train_log_dir)
     checkpoint_prefix = joinpath(data.CHECKPOINT_DIR, "ckpt_{epoch}")
-    checkpoint_callback = tf.keras.callbacks.ModelCheckpoint(
+    tf.keras.callbacks.ModelCheckpoint(
         filepath=checkpoint_prefix,
         save_weights_only=True,
     )
@@ -52,7 +53,7 @@ def run(epochs, seq_size=100, batch_size=64, buffer_size=1000):
     dataset_size = len(dataset)
 
     optimizer = tf.keras.optimizers.Adam()
-    train_loss_func = tf.keras.metrics.Mean("train_loss", dtype=tf.float32)
+    tb_save_loss_func = tf.keras.metrics.Mean("train_loss", dtype=tf.float32)
     for epoch in range(epochs):
         seNNpy.reset_states()
 
@@ -60,10 +61,7 @@ def run(epochs, seq_size=100, batch_size=64, buffer_size=1000):
         loss = 0
         print("Epoch: {} / {}".format(epoch + 1, epochs))
         for (batch_size, (input_text, target_text)) in enumerate(dataset):
-            loss = train_step(
-                seNNpy, input_text, target_text, optimizer, train_loss_func
-            )
-
+            loss = train_step(seNNpy, input_text, target_text, optimizer)
             print(
                 "\r[{:50s}] {:.1%} ".format(
                     "#" * int((batch_size + 1) / dataset_size * 50),
@@ -74,8 +72,9 @@ def run(epochs, seq_size=100, batch_size=64, buffer_size=1000):
                 flush=True,
             )
 
+            tb_save_loss_func(loss)
             with train_summary_writer.as_default():
-                tf.summary.scalar("loss", train_loss_func.result(), step=epoch)
+                tf.summary.scalar("loss", tb_save_loss_func.result(), step=epoch)
         time_elapsed = time.time() - start
         print(
             "\nTime taken last epoch {:.3f}s with {:.4f} loss\n".format(
@@ -92,6 +91,6 @@ def run(epochs, seq_size=100, batch_size=64, buffer_size=1000):
         if (epoch + 1) % 5 == 0:
             seNNpy.save_weights(checkpoint_prefix.format(epoch=epoch + 1))
 
-        train_loss_func.reset_states()
+        tb_save_loss_func.reset_states()
 
     seNNpy.save_weights(checkpoint_prefix.format(epoch=epochs))
