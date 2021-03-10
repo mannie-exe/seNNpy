@@ -1,4 +1,9 @@
 from tensorflow import keras
+from tensorflow import config as tf_config
+
+tf_config.experimental.set_memory_growth(
+    tf_config.list_physical_devices("GPU")[0], True
+)
 
 
 def new(vocab_size, embidding_dim=256, rnn_units=1024, batch_size=1):
