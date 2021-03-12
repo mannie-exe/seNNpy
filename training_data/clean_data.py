@@ -6,13 +6,13 @@ import json
 
 
 INPUTS = [
-    "export_dokidokiliterature.json",
-    "export_ediea2ndera.json",
-    "export_hellotavern.json",
-    "export_badlands.json",
+    "./training_data/export_dokidokiliterature.json",
+    "./training_data/export_ediea2ndera.json",
+    "./training_data/export_hellotavern.json",
+    "./training_data/export_badlands.json",
 ]
 
-OUTPUT = "messages.txt"
+OUTPUT = "./training_data/messages.txt"
 
 URL_PATTERN = re.compile(
     "((https?):((//)|(\\\\))+([\w\d:#@%/;$()~_?\+-=\\\.&](#!)?)*)", flags=re.I
@@ -28,12 +28,16 @@ def check_file(path):
 
 
 def clean_message(accum, message):
-    if not message["author"]["isBot"]:
-        message = message["content"]
-        message = re.sub(URL_PATTERN, "", message).strip()
-        message = "" if re.match(BOT_TRIGGER_PATTERN, message) else message
-        if message:
-            accum.append(message)
+    bot = message["author"]["isBot"]
+    old_markov = int(message["author"]["id"]) == 569277281046888488
+    if bot and not old_markov:
+        return accum
+
+    message = message["content"]
+    message = re.sub(URL_PATTERN, "", message).strip()
+    message = "" if re.match(BOT_TRIGGER_PATTERN, message) else message
+    if message:
+        accum.append(message)
     return accum
 
 
