@@ -265,5 +265,10 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,vscode,sublimetext,python,venv
+
+BOT_TOKEN
+training_data/export_*
+training_data/messages.txt
+training_data/get.bat
 training_checkpoints
 logs
